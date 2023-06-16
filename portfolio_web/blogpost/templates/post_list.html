@@ -1,0 +1,28 @@
+{% extends 'blog/base.html' %}
+
+{% block content %}
+  <h1>Technology Blog</h1>
+
+  {% if category %}
+    <h2>Category: {{ category.name }}</h2>
+  {% endif %}
+
+  <div class="categories">
+    <h3>Categories:</h3>
+    <ul>
+      {% for category in categories %}
+        <li><a href="{% url 'post_list_by_category' category.slug %}">{{ category.name }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="posts">
+    {% for post in posts %}
+      <h2><a href="{% url 'post_detail' post.slug %}">{{ post.title }}</a></h2>
+      <p>{{ post.content }}</p>
+      <hr>
+    {% empty %}
+      <p>No posts found.</p>
+    {% endfor %}
+  </div>
+{% endblock %}
