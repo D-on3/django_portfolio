@@ -25,7 +25,10 @@ SECRET_KEY = "django-insecure-!a^i56-k73wz&w5p10z@#oyk7h169z716et9(#!7s%&l3@-oia
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'mycontainer',
+    '0.0.0.0',
+]
 
 
 # Application definition
@@ -76,13 +79,14 @@ WSGI_APPLICATION = "portfolio_web.wsgi.application"
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'your_database_name',
-        'USER': 'your_username',
-        'PASSWORD': 'your_password',
+        'NAME': 'myproject',
+        'USER': 'myprojectuser',
+        'PASSWORD': 'myprojectpassword',
         'HOST': 'db',
-        'PORT': '5432',
+        'PORT': 5432,
     }
 }
+
 
 
 # Password validation
