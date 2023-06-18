@@ -1,8 +1,0 @@
-{% extends 'blog/base.html' %}
-
-{% block content %}
-  <h1>{{ post.title }}</h1>
-  <p>{{ post.content }}</p>
-  <hr>
-  <p><a href="{% url 'post_list' %}">Back to all posts</a></p>
-{% endblock %}
