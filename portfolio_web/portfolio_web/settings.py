@@ -11,9 +11,13 @@ https://docs.djangoproject.com/en/4.2/ref/settings/
 """
 
 from pathlib import Path
+from django.contrib import messages
 import os
+
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
+
+# Build paths inside the project like this: BASE_DIR / 'subdir'.
 
 
 # Quick-start development settings - unsuitable for production
@@ -25,11 +29,7 @@ SECRET_KEY = "django-insecure-!a^i56-k73wz&w5p10z@#oyk7h169z716et9(#!7s%&l3@-oia
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [
-    'mycontainer',
-    '0.0.0.0',
-]
-
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
 
 # Application definition
 
@@ -40,9 +40,27 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
+    "bootstrap5",
+    "django_bootstrap5",
+    "crispy_forms",
+    "django_forms_bootstrap",
+    'django_extensions',
+    'django_filters',
+    'rest_framework',
+    'rest_framework.authtoken',  # Used to enable token authentication
+    "blogpost",
     "login",
-    "blogpost"
+    'post_api',
+    "todo_app",
+    "weather_app"
+
 ]
+
+# Add the following imports
+
+# Add the reCAPTCHA keys obtained from step 1
+RECAPTCHA_SITE_KEY = '6Le_JqsmAAAAAKtt-XnG9sLT7CXBTa7K9wO-Oc8H'
+RECAPTCHA_SECRET_KEY = '6Le_JqsmAAAAAKCxOj4O1wXzDfPFvW-GvpGzIAoW'
 
 MIDDLEWARE = [
     "django.middleware.security.SecurityMiddleware",
@@ -52,6 +70,7 @@ MIDDLEWARE = [
     "django.contrib.auth.middleware.AuthenticationMiddleware",
     "django.contrib.messages.middleware.MessageMiddleware",
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
+    'django.contrib.messages.middleware.MessageMiddleware',
 ]
 
 ROOT_URLCONF = "portfolio_web.urls"
@@ -59,7 +78,7 @@ ROOT_URLCONF = "portfolio_web.urls"
 TEMPLATES = [
     {
         "BACKEND": "django.template.backends.django.DjangoTemplates",
-        "DIRS": [],
+        "DIRS": [BASE_DIR / "templates"],
         "APP_DIRS": True,
         "OPTIONS": {
             "context_processors": [
@@ -74,13 +93,12 @@ TEMPLATES = [
 
 WSGI_APPLICATION = "portfolio_web.wsgi.application"
 
-
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
+        'ENGINE': 'django.db.backends.sqlite3',
         'NAME': 'myproject',
         'USER': 'myprojectuser',
         'PASSWORD': 'myprojectpassword',
@@ -88,8 +106,6 @@ DATABASES = {
         'PORT': 5432,
     }
 }
-
-
 
 # Password validation
 # https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators
@@ -109,7 +125,6 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-
 # Internationalization
 # https://docs.djangoproject.com/en/4.2/topics/i18n/
 
@@ -121,13 +136,14 @@ USE_I18N = True
 
 USE_TZ = True
 
-
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.2/howto/static-files/
 
 STATIC_URL = "static/"
-
+STATICFILES_DIRS = [os.path.join(BASE_DIR, "static")]
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
+CRISPY_TEMPLATE_PACK = "bootstrap4"
+MESSAGE_STORAGE = 'django.contrib.messages.storage.session.SessionStorage'
