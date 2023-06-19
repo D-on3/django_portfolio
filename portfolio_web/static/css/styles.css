@@ -1,0 +1,193 @@
+:root {
+  --glow-color: hsl(280, 100%, 50%);
+}
+
+/* Body styles */
+body {
+  background-color: #3c314e;
+  color: #f8e3f2;
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+/* Navbar styles */
+.navbar {
+  padding: 10px;
+  background-color: #3C314DFF;
+}
+
+.navbar-brand {
+  color: #f8e3f2 !important;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.navbar-nav .nav-link {
+  color: #f8e3f2 !important;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus {
+  color: #f8e3f2 !important;
+  background-color: #3c314e;
+}
+
+.nav-item {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+
+
+.hero {
+  position: relative;
+  padding: 100px 0;
+  text-align: center;
+}
+
+.hero .slider {
+  position: relative;
+  height: 400px;
+  overflow: hidden;
+}
+
+.hero .slide {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.5;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.hero .slide.active {
+  opacity: 0.4;
+}
+/* Hero section styles */
+.hero {
+  position: relative;
+  padding: 100px 0;
+  text-align: center;
+}
+
+.hero img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.5;
+}
+
+.hero-content {
+  position: relative;
+  z-index: 1;
+}
+
+.hero h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 18px;
+  margin-bottom: 40px;
+}
+
+.btn {
+  display: inline-block;
+  background-color: #3c314d;
+  color: #f8e3f2;
+  padding: 10px 20px;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.btn-primary:hover {
+  background-color: #f8e3f2;
+  color: #3C314DFF !important;
+}
+
+/* Features section styles */
+.features {
+  padding: 100px 0;
+  text-align: center;
+}
+
+.features h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.features p {
+  font-size: 16px;
+  margin-bottom: 40px;
+}
+
+/* Footer styles */
+footer {
+  background-color: #3C314DFF;
+  padding: 20px 0;
+  text-align: center;
+}
+
+footer p {
+  margin: 0;
+  color: #f8e3f2;
+}
+
+/* Glowing button styles */
+.glowing-btn {
+  position: relative;
+  color: var(--glow-color);
+  cursor: pointer;
+  padding: 0.35em 1em;
+}
+
+.glowing-btn::before,
+.glowing-btn::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 4px;
+  pointer-events: none;
+  opacity: 0.5;
+}
+img{
+  opacity: 0.5;
+}
+.glowing-btn::before {
+  background-color: var(--glow-color);
+  mix-blend-mode: screen;
+  transition: opacity 0.3s ease-out;
+}
+
+.glowing-btn::after {
+  background-color: var(--glow-color);
+  box-shadow: 0 0 8px 2px var(--glow-color);
+  opacity: 0.3;
+  transition: opacity 0.3s ease-out;
+}
+
+.glowing-btn:hover::before,
+.glowing-btn:focus::before {
+  opacity: 0.3;
+}
+
+.glowing-btn:hover::after,
+.glowing-btn:focus::after {
+  opacity: 0.6;
+}
+
+@media only screen and (max-width: 600px) {
+  .glowing-btn {
+    font-size: 1em;
+  }
+}
