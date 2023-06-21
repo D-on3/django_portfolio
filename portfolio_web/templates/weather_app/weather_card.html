@@ -1,0 +1,23 @@
+
+    <div class="position-absolute top-50 start-50 translate-middle">
+<div class="card" style="width: 18rem;">
+
+<lottie-player src="https://assets10.lottiefiles.com/private_files/lf30_jmgekfqg.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;" autoplay loop ></lottie-player>
+  <div class="card-body">
+    <h5 class="card-title">{{ city }}</h5>
+
+
+      <p class="card-text">Temperature {{ temp }}</p>
+
+      <p class="card-text">Humidity {{ humidity }}%</p>
+
+      <p class="card-text">Visibility {{ visibility }}</p>
+
+      <p class="card-text">Wind Direction {{ winDir }}</p>
+
+
+
+    <a href="{% url "home" %}" class="btn btn-primary">Home</a>
+  </div>
+</div>
+    </div>

@@ -2,89 +2,96 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet"
-        href="https://maxcdn.bootstrapcdn.com/bootstrap/4.6.0/css/bootstrap.min.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet"
+          href="https://maxcdn.bootstrapcdn.com/bootstrap/4.6.0/css/bootstrap.min.css">
 
-  {% load django_bootstrap5 %}
+    {% load django_bootstrap5 %}
 
-  {# Load CSS and JavaScript separately#}
-  {% bootstrap_css %}
-  {% bootstrap_javascript %}
-  {% load static %}
-  <link rel="stylesheet" href="{% static "css/styles.css" %}">
+    {# Load CSS and JavaScript separately#}
+    {% bootstrap_css %}
+    {% bootstrap_javascript %}
+    {% load static %}
+    <link rel="stylesheet" href="{% static "css/styles.css" %}">
 
-  <title>Indigo Landing Page</title>
+    <title>Indigo Landing Page</title>
 </head>
 
-<body> <header class="navbar navbar-dark bg-indigo">
+<body>
+<header class="navbar navbar-dark bg-indigo">
     <nav class="navbar flex-column navbar-expand-lg navbar-nav mx-auto">
-      <button class="navbar-toggler glowing-btn" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav">
-          <li class="nav-item">
-            <a class="nav-link glowing-link" href="#">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link glowing-link" href="#">About</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link glowing-link" href="#">Services</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link glowing-link" href="#">Contact</a>
-          </li>
-        </ul>
-      </div>
+        <button class="navbar-toggler glowing-btn" type="button"
+                data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false"
+                aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link glowing-link" href="{% url "home" %}">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link glowing-link" href="{% url "about" %}">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link glowing-link" href="{% url "about" %}">Services</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link glowing-link" href="{% url "about" %}">Contact</a>
+                </li>
+            </ul>
+        </div>
     </nav>
-  </header>
+</header>
 
 
-
-
-
-  <section class="hero">
-    <img class="hero-image" src="{% static "image/bg_first.jpg" %}" alt="Indigo Image">
+<section class="hero">
+    <img class="hero-image" src="{% static "image/bg_first.jpg" %}"
+         alt="Indigo Image">
     <div class="container">
-      <div class="hero-content">
-        <h1>Welcome to our Website</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-        <a class="btn btn-primary" href="#">Learn More</a>
-      </div>
+        <div class="hero-content">
+            <h1>Welcome to our Website</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <a class="btn btn-primary" href="#">Learn More</a>
+        </div>
     </div>
-  </section>
-
-  <section class="features">
+</section>
+<section class="features">
+    {% block content %}
+    {% endblock %}
+</section>
+<section class="features">
     <div class="container">
-      <div class="row">
-        <div class="col-md-4">
-          <h2>Feature 1</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        <div class="row">
+            <div class="col-md-4">
+                <h2>Feature 1</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing
+                    elit.</p>
+            </div>
+            <div class="col-md-4">
+                <h2>Feature 2</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing
+                    elit.</p>
+            </div>
+            <div class="col-md-4">
+                <h2>Feature 3</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing
+                    elit.</p>
+            </div>
         </div>
-        <div class="col-md-4">
-          <h2>Feature 2</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-        </div>
-        <div class="col-md-4">
-          <h2>Feature 3</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-        </div>
-      </div>
     </div>
-  </section>
+</section>
 
-  <footer>
+<footer>
     <div class="container">
-      <p>&copy; 2023 Your Company. All rights reserved.</p>
+        <p>&copy; 2023 Your Company. All rights reserved.</p>
     </div>
-  </footer>
+</footer>
 
 
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha2/js/bootstrap.bundle.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha2/js/bootstrap.bundle.min.js"></script>
 <script src="{% static 'js/script.js' %}"></script>
 
 </body>
