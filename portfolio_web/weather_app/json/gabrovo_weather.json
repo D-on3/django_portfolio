@@ -1,0 +1,5563 @@
+{
+    "hours": [
+        {
+            "airTemperature": {
+                "noaa": 10.37,
+                "sg": 10.37
+            },
+            "humidity": {
+                "noaa": 95.4,
+                "sg": 95.4
+            },
+            "time": "2023-04-26T00:00:00+00:00",
+            "visibility": {
+                "noaa": 10.88,
+                "sg": 10.88
+            },
+            "windDirection": {
+                "noaa": 297.13,
+                "sg": 297.13
+            },
+            "windSpeed": {
+                "noaa": 2.32,
+                "sg": 2.32
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.98,
+                "sg": 9.98
+            },
+            "humidity": {
+                "noaa": 94.67,
+                "sg": 94.67
+            },
+            "time": "2023-04-26T01:00:00+00:00",
+            "visibility": {
+                "noaa": 13.77,
+                "sg": 13.77
+            },
+            "windDirection": {
+                "noaa": 257.54,
+                "sg": 257.54
+            },
+            "windSpeed": {
+                "noaa": 2.07,
+                "sg": 2.07
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.6,
+                "sg": 9.6
+            },
+            "humidity": {
+                "noaa": 93.93,
+                "sg": 93.93
+            },
+            "time": "2023-04-26T02:00:00+00:00",
+            "visibility": {
+                "noaa": 16.66,
+                "sg": 16.66
+            },
+            "windDirection": {
+                "noaa": 217.94,
+                "sg": 217.94
+            },
+            "windSpeed": {
+                "noaa": 1.81,
+                "sg": 1.81
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.21,
+                "sg": 9.21
+            },
+            "humidity": {
+                "noaa": 93.2,
+                "sg": 93.2
+            },
+            "time": "2023-04-26T03:00:00+00:00",
+            "visibility": {
+                "noaa": 19.55,
+                "sg": 19.55
+            },
+            "windDirection": {
+                "noaa": 178.35,
+                "sg": 178.35
+            },
+            "windSpeed": {
+                "noaa": 1.56,
+                "sg": 1.56
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.14,
+                "sg": 9.14
+            },
+            "humidity": {
+                "noaa": 92.6,
+                "sg": 92.6
+            },
+            "time": "2023-04-26T04:00:00+00:00",
+            "visibility": {
+                "noaa": 17.18,
+                "sg": 17.18
+            },
+            "windDirection": {
+                "noaa": 196.88,
+                "sg": 196.88
+            },
+            "windSpeed": {
+                "noaa": 1.79,
+                "sg": 1.79
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.07,
+                "sg": 9.07
+            },
+            "humidity": {
+                "noaa": 92.0,
+                "sg": 92.0
+            },
+            "time": "2023-04-26T05:00:00+00:00",
+            "visibility": {
+                "noaa": 14.8,
+                "sg": 14.8
+            },
+            "windDirection": {
+                "noaa": 215.41,
+                "sg": 215.41
+            },
+            "windSpeed": {
+                "noaa": 2.03,
+                "sg": 2.03
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.01,
+                "sg": 9.01
+            },
+            "humidity": {
+                "noaa": 91.4,
+                "sg": 91.4
+            },
+            "time": "2023-04-26T06:00:00+00:00",
+            "visibility": {
+                "noaa": 12.43,
+                "sg": 12.43
+            },
+            "windDirection": {
+                "noaa": 233.94,
+                "sg": 233.94
+            },
+            "windSpeed": {
+                "noaa": 2.26,
+                "sg": 2.26
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.62,
+                "sg": 9.62
+            },
+            "humidity": {
+                "noaa": 87.9,
+                "sg": 87.9
+            },
+            "time": "2023-04-26T07:00:00+00:00",
+            "visibility": {
+                "noaa": 16.33,
+                "sg": 16.33
+            },
+            "windDirection": {
+                "noaa": 220.44,
+                "sg": 220.44
+            },
+            "windSpeed": {
+                "noaa": 1.96,
+                "sg": 1.96
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.24,
+                "sg": 10.24
+            },
+            "humidity": {
+                "noaa": 84.4,
+                "sg": 84.4
+            },
+            "time": "2023-04-26T08:00:00+00:00",
+            "visibility": {
+                "noaa": 20.23,
+                "sg": 20.23
+            },
+            "windDirection": {
+                "noaa": 206.93,
+                "sg": 206.93
+            },
+            "windSpeed": {
+                "noaa": 1.67,
+                "sg": 1.67
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.86,
+                "sg": 10.86
+            },
+            "humidity": {
+                "noaa": 80.9,
+                "sg": 80.9
+            },
+            "time": "2023-04-26T09:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 193.43,
+                "sg": 193.43
+            },
+            "windSpeed": {
+                "noaa": 1.37,
+                "sg": 1.37
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 12.14,
+                "sg": 12.14
+            },
+            "humidity": {
+                "noaa": 73.8,
+                "sg": 73.8
+            },
+            "time": "2023-04-26T10:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 230.4,
+                "sg": 230.4
+            },
+            "windSpeed": {
+                "noaa": 2.59,
+                "sg": 2.59
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 13.42,
+                "sg": 13.42
+            },
+            "humidity": {
+                "noaa": 66.7,
+                "sg": 66.7
+            },
+            "time": "2023-04-26T11:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 267.38,
+                "sg": 267.38
+            },
+            "windSpeed": {
+                "noaa": 3.81,
+                "sg": 3.81
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 14.7,
+                "sg": 14.7
+            },
+            "humidity": {
+                "noaa": 59.6,
+                "sg": 59.6
+            },
+            "time": "2023-04-26T12:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 304.35,
+                "sg": 304.35
+            },
+            "windSpeed": {
+                "noaa": 5.03,
+                "sg": 5.03
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 13.42,
+                "sg": 13.42
+            },
+            "humidity": {
+                "noaa": 69.23,
+                "sg": 69.23
+            },
+            "time": "2023-04-26T13:00:00+00:00",
+            "visibility": {
+                "noaa": 22.68,
+                "sg": 22.68
+            },
+            "windDirection": {
+                "noaa": 311.52,
+                "sg": 311.52
+            },
+            "windSpeed": {
+                "noaa": 4.85,
+                "sg": 4.85
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 12.14,
+                "sg": 12.14
+            },
+            "humidity": {
+                "noaa": 78.87,
+                "sg": 78.87
+            },
+            "time": "2023-04-26T14:00:00+00:00",
+            "visibility": {
+                "noaa": 21.22,
+                "sg": 21.22
+            },
+            "windDirection": {
+                "noaa": 318.69,
+                "sg": 318.69
+            },
+            "windSpeed": {
+                "noaa": 4.66,
+                "sg": 4.66
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.86,
+                "sg": 10.86
+            },
+            "humidity": {
+                "noaa": 88.5,
+                "sg": 88.5
+            },
+            "time": "2023-04-26T15:00:00+00:00",
+            "visibility": {
+                "noaa": 19.77,
+                "sg": 19.77
+            },
+            "windDirection": {
+                "noaa": 325.86,
+                "sg": 325.86
+            },
+            "windSpeed": {
+                "noaa": 4.48,
+                "sg": 4.48
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.49,
+                "sg": 10.49
+            },
+            "humidity": {
+                "noaa": 89.17,
+                "sg": 89.17
+            },
+            "time": "2023-04-26T16:00:00+00:00",
+            "visibility": {
+                "noaa": 20.59,
+                "sg": 20.59
+            },
+            "windDirection": {
+                "noaa": 345.12,
+                "sg": 345.12
+            },
+            "windSpeed": {
+                "noaa": 3.67,
+                "sg": 3.67
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.12,
+                "sg": 10.12
+            },
+            "humidity": {
+                "noaa": 89.83,
+                "sg": 89.83
+            },
+            "time": "2023-04-26T17:00:00+00:00",
+            "visibility": {
+                "noaa": 21.41,
+                "sg": 21.41
+            },
+            "windDirection": {
+                "noaa": 4.39,
+                "sg": 4.39
+            },
+            "windSpeed": {
+                "noaa": 2.85,
+                "sg": 2.85
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.75,
+                "sg": 9.75
+            },
+            "humidity": {
+                "noaa": 90.5,
+                "sg": 90.5
+            },
+            "time": "2023-04-26T18:00:00+00:00",
+            "visibility": {
+                "noaa": 22.24,
+                "sg": 22.24
+            },
+            "windDirection": {
+                "noaa": 23.65,
+                "sg": 23.65
+            },
+            "windSpeed": {
+                "noaa": 2.04,
+                "sg": 2.04
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.95,
+                "sg": 8.95
+            },
+            "humidity": {
+                "noaa": 92.43,
+                "sg": 92.43
+            },
+            "time": "2023-04-26T19:00:00+00:00",
+            "visibility": {
+                "noaa": 17.37,
+                "sg": 17.37
+            },
+            "windDirection": {
+                "noaa": 27.37,
+                "sg": 27.37
+            },
+            "windSpeed": {
+                "noaa": 1.8,
+                "sg": 1.8
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.14,
+                "sg": 8.14
+            },
+            "humidity": {
+                "noaa": 94.37,
+                "sg": 94.37
+            },
+            "time": "2023-04-26T20:00:00+00:00",
+            "visibility": {
+                "noaa": 12.51,
+                "sg": 12.51
+            },
+            "windDirection": {
+                "noaa": 31.09,
+                "sg": 31.09
+            },
+            "windSpeed": {
+                "noaa": 1.55,
+                "sg": 1.55
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 7.33,
+                "sg": 7.33
+            },
+            "humidity": {
+                "noaa": 96.3,
+                "sg": 96.3
+            },
+            "time": "2023-04-26T21:00:00+00:00",
+            "visibility": {
+                "noaa": 7.64,
+                "sg": 7.64
+            },
+            "windDirection": {
+                "noaa": 34.81,
+                "sg": 34.81
+            },
+            "windSpeed": {
+                "noaa": 1.31,
+                "sg": 1.31
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 7.2,
+                "sg": 7.2
+            },
+            "humidity": {
+                "noaa": 96.2,
+                "sg": 96.2
+            },
+            "time": "2023-04-26T22:00:00+00:00",
+            "visibility": {
+                "noaa": 10.43,
+                "sg": 10.43
+            },
+            "windDirection": {
+                "noaa": 19.94,
+                "sg": 19.94
+            },
+            "windSpeed": {
+                "noaa": 1.17,
+                "sg": 1.17
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 7.08,
+                "sg": 7.08
+            },
+            "humidity": {
+                "noaa": 96.1,
+                "sg": 96.1
+            },
+            "time": "2023-04-26T23:00:00+00:00",
+            "visibility": {
+                "noaa": 13.22,
+                "sg": 13.22
+            },
+            "windDirection": {
+                "noaa": 5.07,
+                "sg": 5.07
+            },
+            "windSpeed": {
+                "noaa": 1.03,
+                "sg": 1.03
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 6.95,
+                "sg": 6.95
+            },
+            "humidity": {
+                "noaa": 96.0,
+                "sg": 96.0
+            },
+            "time": "2023-04-27T00:00:00+00:00",
+            "visibility": {
+                "noaa": 16.01,
+                "sg": 16.01
+            },
+            "windDirection": {
+                "noaa": 350.2,
+                "sg": 350.2
+            },
+            "windSpeed": {
+                "noaa": 0.89,
+                "sg": 0.89
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 6.89,
+                "sg": 6.89
+            },
+            "humidity": {
+                "noaa": 95.8,
+                "sg": 95.8
+            },
+            "time": "2023-04-27T01:00:00+00:00",
+            "visibility": {
+                "noaa": 17.45,
+                "sg": 17.45
+            },
+            "windDirection": {
+                "noaa": 345.43,
+                "sg": 345.43
+            },
+            "windSpeed": {
+                "noaa": 0.87,
+                "sg": 0.87
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 6.82,
+                "sg": 6.82
+            },
+            "humidity": {
+                "noaa": 95.6,
+                "sg": 95.6
+            },
+            "time": "2023-04-27T02:00:00+00:00",
+            "visibility": {
+                "noaa": 18.89,
+                "sg": 18.89
+            },
+            "windDirection": {
+                "noaa": 340.67,
+                "sg": 340.67
+            },
+            "windSpeed": {
+                "noaa": 0.86,
+                "sg": 0.86
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 6.76,
+                "sg": 6.76
+            },
+            "humidity": {
+                "noaa": 95.4,
+                "sg": 95.4
+            },
+            "time": "2023-04-27T03:00:00+00:00",
+            "visibility": {
+                "noaa": 20.33,
+                "sg": 20.33
+            },
+            "windDirection": {
+                "noaa": 335.9,
+                "sg": 335.9
+            },
+            "windSpeed": {
+                "noaa": 0.84,
+                "sg": 0.84
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 6.93,
+                "sg": 6.93
+            },
+            "humidity": {
+                "noaa": 95.2,
+                "sg": 95.2
+            },
+            "time": "2023-04-27T04:00:00+00:00",
+            "visibility": {
+                "noaa": 19.61,
+                "sg": 19.61
+            },
+            "windDirection": {
+                "noaa": 318.21,
+                "sg": 318.21
+            },
+            "windSpeed": {
+                "noaa": 0.86,
+                "sg": 0.86
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 7.1,
+                "sg": 7.1
+            },
+            "humidity": {
+                "noaa": 95.0,
+                "sg": 95.0
+            },
+            "time": "2023-04-27T05:00:00+00:00",
+            "visibility": {
+                "noaa": 18.88,
+                "sg": 18.88
+            },
+            "windDirection": {
+                "noaa": 300.52,
+                "sg": 300.52
+            },
+            "windSpeed": {
+                "noaa": 0.89,
+                "sg": 0.89
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 7.27,
+                "sg": 7.27
+            },
+            "humidity": {
+                "noaa": 94.8,
+                "sg": 94.8
+            },
+            "time": "2023-04-27T06:00:00+00:00",
+            "visibility": {
+                "noaa": 18.15,
+                "sg": 18.15
+            },
+            "windDirection": {
+                "noaa": 282.83,
+                "sg": 282.83
+            },
+            "windSpeed": {
+                "noaa": 0.91,
+                "sg": 0.91
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 7.9,
+                "sg": 7.9
+            },
+            "humidity": {
+                "noaa": 92.3,
+                "sg": 92.3
+            },
+            "time": "2023-04-27T07:00:00+00:00",
+            "visibility": {
+                "noaa": 17.79,
+                "sg": 17.79
+            },
+            "windDirection": {
+                "noaa": 306.25,
+                "sg": 306.25
+            },
+            "windSpeed": {
+                "noaa": 1.24,
+                "sg": 1.24
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.53,
+                "sg": 8.53
+            },
+            "humidity": {
+                "noaa": 89.8,
+                "sg": 89.8
+            },
+            "time": "2023-04-27T08:00:00+00:00",
+            "visibility": {
+                "noaa": 17.44,
+                "sg": 17.44
+            },
+            "windDirection": {
+                "noaa": 329.67,
+                "sg": 329.67
+            },
+            "windSpeed": {
+                "noaa": 1.56,
+                "sg": 1.56
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.17,
+                "sg": 9.17
+            },
+            "humidity": {
+                "noaa": 87.3,
+                "sg": 87.3
+            },
+            "time": "2023-04-27T09:00:00+00:00",
+            "visibility": {
+                "noaa": 17.09,
+                "sg": 17.09
+            },
+            "windDirection": {
+                "noaa": 353.09,
+                "sg": 353.09
+            },
+            "windSpeed": {
+                "noaa": 1.89,
+                "sg": 1.89
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.05,
+                "sg": 9.05
+            },
+            "humidity": {
+                "noaa": 88.83,
+                "sg": 88.83
+            },
+            "time": "2023-04-27T10:00:00+00:00",
+            "visibility": {
+                "noaa": 16.5,
+                "sg": 16.5
+            },
+            "windDirection": {
+                "noaa": 335.01,
+                "sg": 335.01
+            },
+            "windSpeed": {
+                "noaa": 1.92,
+                "sg": 1.92
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.94,
+                "sg": 8.94
+            },
+            "humidity": {
+                "noaa": 90.37,
+                "sg": 90.37
+            },
+            "time": "2023-04-27T11:00:00+00:00",
+            "visibility": {
+                "noaa": 15.9,
+                "sg": 15.9
+            },
+            "windDirection": {
+                "noaa": 316.94,
+                "sg": 316.94
+            },
+            "windSpeed": {
+                "noaa": 1.94,
+                "sg": 1.94
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.82,
+                "sg": 8.82
+            },
+            "humidity": {
+                "noaa": 91.9,
+                "sg": 91.9
+            },
+            "time": "2023-04-27T12:00:00+00:00",
+            "visibility": {
+                "noaa": 15.31,
+                "sg": 15.31
+            },
+            "windDirection": {
+                "noaa": 298.86,
+                "sg": 298.86
+            },
+            "windSpeed": {
+                "noaa": 1.97,
+                "sg": 1.97
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.88,
+                "sg": 8.88
+            },
+            "humidity": {
+                "noaa": 92.3,
+                "sg": 92.3
+            },
+            "time": "2023-04-27T13:00:00+00:00",
+            "visibility": {
+                "noaa": 18.25,
+                "sg": 18.25
+            },
+            "windDirection": {
+                "noaa": 344.1,
+                "sg": 344.1
+            },
+            "windSpeed": {
+                "noaa": 1.79,
+                "sg": 1.79
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.94,
+                "sg": 8.94
+            },
+            "humidity": {
+                "noaa": 92.7,
+                "sg": 92.7
+            },
+            "time": "2023-04-27T14:00:00+00:00",
+            "visibility": {
+                "noaa": 21.19,
+                "sg": 21.19
+            },
+            "windDirection": {
+                "noaa": 29.35,
+                "sg": 29.35
+            },
+            "windSpeed": {
+                "noaa": 1.6,
+                "sg": 1.6
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.0,
+                "sg": 9.0
+            },
+            "humidity": {
+                "noaa": 93.1,
+                "sg": 93.1
+            },
+            "time": "2023-04-27T15:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 74.59,
+                "sg": 74.59
+            },
+            "windSpeed": {
+                "noaa": 1.42,
+                "sg": 1.42
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.63,
+                "sg": 8.63
+            },
+            "humidity": {
+                "noaa": 92.97,
+                "sg": 92.97
+            },
+            "time": "2023-04-27T16:00:00+00:00",
+            "visibility": {
+                "noaa": 23.63,
+                "sg": 23.63
+            },
+            "windDirection": {
+                "noaa": 79.44,
+                "sg": 79.44
+            },
+            "windSpeed": {
+                "noaa": 1.4,
+                "sg": 1.4
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.27,
+                "sg": 8.27
+            },
+            "humidity": {
+                "noaa": 92.83,
+                "sg": 92.83
+            },
+            "time": "2023-04-27T17:00:00+00:00",
+            "visibility": {
+                "noaa": 23.13,
+                "sg": 23.13
+            },
+            "windDirection": {
+                "noaa": 84.29,
+                "sg": 84.29
+            },
+            "windSpeed": {
+                "noaa": 1.37,
+                "sg": 1.37
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 7.9,
+                "sg": 7.9
+            },
+            "humidity": {
+                "noaa": 92.7,
+                "sg": 92.7
+            },
+            "time": "2023-04-27T18:00:00+00:00",
+            "visibility": {
+                "noaa": 22.63,
+                "sg": 22.63
+            },
+            "windDirection": {
+                "noaa": 89.14,
+                "sg": 89.14
+            },
+            "windSpeed": {
+                "noaa": 1.35,
+                "sg": 1.35
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 7.44,
+                "sg": 7.44
+            },
+            "humidity": {
+                "noaa": 93.0,
+                "sg": 93.0
+            },
+            "time": "2023-04-27T19:00:00+00:00",
+            "visibility": {
+                "noaa": 22.8,
+                "sg": 22.8
+            },
+            "windDirection": {
+                "noaa": 87.65,
+                "sg": 87.65
+            },
+            "windSpeed": {
+                "noaa": 1.2,
+                "sg": 1.2
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 6.98,
+                "sg": 6.98
+            },
+            "humidity": {
+                "noaa": 93.3,
+                "sg": 93.3
+            },
+            "time": "2023-04-27T20:00:00+00:00",
+            "visibility": {
+                "noaa": 22.98,
+                "sg": 22.98
+            },
+            "windDirection": {
+                "noaa": 86.15,
+                "sg": 86.15
+            },
+            "windSpeed": {
+                "noaa": 1.04,
+                "sg": 1.04
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 6.52,
+                "sg": 6.52
+            },
+            "humidity": {
+                "noaa": 93.6,
+                "sg": 93.6
+            },
+            "time": "2023-04-27T21:00:00+00:00",
+            "visibility": {
+                "noaa": 23.15,
+                "sg": 23.15
+            },
+            "windDirection": {
+                "noaa": 84.66,
+                "sg": 84.66
+            },
+            "windSpeed": {
+                "noaa": 0.89,
+                "sg": 0.89
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 6.49,
+                "sg": 6.49
+            },
+            "humidity": {
+                "noaa": 93.4,
+                "sg": 93.4
+            },
+            "time": "2023-04-27T22:00:00+00:00",
+            "visibility": {
+                "noaa": 21.55,
+                "sg": 21.55
+            },
+            "windDirection": {
+                "noaa": 126.73,
+                "sg": 126.73
+            },
+            "windSpeed": {
+                "noaa": 0.91,
+                "sg": 0.91
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 6.45,
+                "sg": 6.45
+            },
+            "humidity": {
+                "noaa": 93.2,
+                "sg": 93.2
+            },
+            "time": "2023-04-27T23:00:00+00:00",
+            "visibility": {
+                "noaa": 19.95,
+                "sg": 19.95
+            },
+            "windDirection": {
+                "noaa": 168.81,
+                "sg": 168.81
+            },
+            "windSpeed": {
+                "noaa": 0.93,
+                "sg": 0.93
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 6.41,
+                "sg": 6.41
+            },
+            "humidity": {
+                "noaa": 93.0,
+                "sg": 93.0
+            },
+            "time": "2023-04-28T00:00:00+00:00",
+            "visibility": {
+                "noaa": 18.36,
+                "sg": 18.36
+            },
+            "windDirection": {
+                "noaa": 210.88,
+                "sg": 210.88
+            },
+            "windSpeed": {
+                "noaa": 0.95,
+                "sg": 0.95
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 6.45,
+                "sg": 6.45
+            },
+            "humidity": {
+                "noaa": 92.3,
+                "sg": 92.3
+            },
+            "time": "2023-04-28T01:00:00+00:00",
+            "visibility": {
+                "noaa": 20.28,
+                "sg": 20.28
+            },
+            "windDirection": {
+                "noaa": 218.52,
+                "sg": 218.52
+            },
+            "windSpeed": {
+                "noaa": 1.26,
+                "sg": 1.26
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 6.5,
+                "sg": 6.5
+            },
+            "humidity": {
+                "noaa": 91.6,
+                "sg": 91.6
+            },
+            "time": "2023-04-28T02:00:00+00:00",
+            "visibility": {
+                "noaa": 22.21,
+                "sg": 22.21
+            },
+            "windDirection": {
+                "noaa": 226.16,
+                "sg": 226.16
+            },
+            "windSpeed": {
+                "noaa": 1.57,
+                "sg": 1.57
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 6.54,
+                "sg": 6.54
+            },
+            "humidity": {
+                "noaa": 90.9,
+                "sg": 90.9
+            },
+            "time": "2023-04-28T03:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 233.8,
+                "sg": 233.8
+            },
+            "windSpeed": {
+                "noaa": 1.88,
+                "sg": 1.88
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 6.75,
+                "sg": 6.75
+            },
+            "humidity": {
+                "noaa": 89.93,
+                "sg": 89.93
+            },
+            "time": "2023-04-28T04:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 244.74,
+                "sg": 244.74
+            },
+            "windSpeed": {
+                "noaa": 2.44,
+                "sg": 2.44
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 6.96,
+                "sg": 6.96
+            },
+            "humidity": {
+                "noaa": 88.97,
+                "sg": 88.97
+            },
+            "time": "2023-04-28T05:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 255.68,
+                "sg": 255.68
+            },
+            "windSpeed": {
+                "noaa": 3.0,
+                "sg": 3.0
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 7.17,
+                "sg": 7.17
+            },
+            "humidity": {
+                "noaa": 88.0,
+                "sg": 88.0
+            },
+            "time": "2023-04-28T06:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 266.62,
+                "sg": 266.62
+            },
+            "windSpeed": {
+                "noaa": 3.56,
+                "sg": 3.56
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.49,
+                "sg": 8.49
+            },
+            "humidity": {
+                "noaa": 81.17,
+                "sg": 81.17
+            },
+            "time": "2023-04-28T07:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 272.76,
+                "sg": 272.76
+            },
+            "windSpeed": {
+                "noaa": 3.98,
+                "sg": 3.98
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.81,
+                "sg": 9.81
+            },
+            "humidity": {
+                "noaa": 74.33,
+                "sg": 74.33
+            },
+            "time": "2023-04-28T08:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 278.91,
+                "sg": 278.91
+            },
+            "windSpeed": {
+                "noaa": 4.4,
+                "sg": 4.4
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 11.12,
+                "sg": 11.12
+            },
+            "humidity": {
+                "noaa": 67.5,
+                "sg": 67.5
+            },
+            "time": "2023-04-28T09:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 285.05,
+                "sg": 285.05
+            },
+            "windSpeed": {
+                "noaa": 4.82,
+                "sg": 4.82
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 11.57,
+                "sg": 11.57
+            },
+            "humidity": {
+                "noaa": 69.6,
+                "sg": 69.6
+            },
+            "time": "2023-04-28T10:00:00+00:00",
+            "visibility": {
+                "noaa": 21.3,
+                "sg": 21.3
+            },
+            "windDirection": {
+                "noaa": 292.73,
+                "sg": 292.73
+            },
+            "windSpeed": {
+                "noaa": 4.66,
+                "sg": 4.66
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 12.01,
+                "sg": 12.01
+            },
+            "humidity": {
+                "noaa": 71.7,
+                "sg": 71.7
+            },
+            "time": "2023-04-28T11:00:00+00:00",
+            "visibility": {
+                "noaa": 18.46,
+                "sg": 18.46
+            },
+            "windDirection": {
+                "noaa": 300.41,
+                "sg": 300.41
+            },
+            "windSpeed": {
+                "noaa": 4.49,
+                "sg": 4.49
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 12.45,
+                "sg": 12.45
+            },
+            "humidity": {
+                "noaa": 73.8,
+                "sg": 73.8
+            },
+            "time": "2023-04-28T12:00:00+00:00",
+            "visibility": {
+                "noaa": 15.62,
+                "sg": 15.62
+            },
+            "windDirection": {
+                "noaa": 308.09,
+                "sg": 308.09
+            },
+            "windSpeed": {
+                "noaa": 4.33,
+                "sg": 4.33
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 12.48,
+                "sg": 12.48
+            },
+            "humidity": {
+                "noaa": 74.23,
+                "sg": 74.23
+            },
+            "time": "2023-04-28T13:00:00+00:00",
+            "visibility": {
+                "noaa": 16.92,
+                "sg": 16.92
+            },
+            "windDirection": {
+                "noaa": 311.68,
+                "sg": 311.68
+            },
+            "windSpeed": {
+                "noaa": 4.1,
+                "sg": 4.1
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 12.5,
+                "sg": 12.5
+            },
+            "humidity": {
+                "noaa": 74.67,
+                "sg": 74.67
+            },
+            "time": "2023-04-28T14:00:00+00:00",
+            "visibility": {
+                "noaa": 18.22,
+                "sg": 18.22
+            },
+            "windDirection": {
+                "noaa": 315.27,
+                "sg": 315.27
+            },
+            "windSpeed": {
+                "noaa": 3.88,
+                "sg": 3.88
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 12.53,
+                "sg": 12.53
+            },
+            "humidity": {
+                "noaa": 75.1,
+                "sg": 75.1
+            },
+            "time": "2023-04-28T15:00:00+00:00",
+            "visibility": {
+                "noaa": 19.52,
+                "sg": 19.52
+            },
+            "windDirection": {
+                "noaa": 318.86,
+                "sg": 318.86
+            },
+            "windSpeed": {
+                "noaa": 3.65,
+                "sg": 3.65
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 11.16,
+                "sg": 11.16
+            },
+            "humidity": {
+                "noaa": 78.2,
+                "sg": 78.2
+            },
+            "time": "2023-04-28T16:00:00+00:00",
+            "visibility": {
+                "noaa": 21.06,
+                "sg": 21.06
+            },
+            "windDirection": {
+                "noaa": 284.08,
+                "sg": 284.08
+            },
+            "windSpeed": {
+                "noaa": 2.88,
+                "sg": 2.88
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.8,
+                "sg": 9.8
+            },
+            "humidity": {
+                "noaa": 81.3,
+                "sg": 81.3
+            },
+            "time": "2023-04-28T17:00:00+00:00",
+            "visibility": {
+                "noaa": 22.6,
+                "sg": 22.6
+            },
+            "windDirection": {
+                "noaa": 249.29,
+                "sg": 249.29
+            },
+            "windSpeed": {
+                "noaa": 2.11,
+                "sg": 2.11
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.43,
+                "sg": 8.43
+            },
+            "humidity": {
+                "noaa": 84.4,
+                "sg": 84.4
+            },
+            "time": "2023-04-28T18:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 214.51,
+                "sg": 214.51
+            },
+            "windSpeed": {
+                "noaa": 1.34,
+                "sg": 1.34
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 7.93,
+                "sg": 7.93
+            },
+            "humidity": {
+                "noaa": 85.6,
+                "sg": 85.6
+            },
+            "time": "2023-04-28T19:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 209.5,
+                "sg": 209.5
+            },
+            "windSpeed": {
+                "noaa": 1.57,
+                "sg": 1.57
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 7.42,
+                "sg": 7.42
+            },
+            "humidity": {
+                "noaa": 86.8,
+                "sg": 86.8
+            },
+            "time": "2023-04-28T20:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 204.49,
+                "sg": 204.49
+            },
+            "windSpeed": {
+                "noaa": 1.8,
+                "sg": 1.8
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 6.92,
+                "sg": 6.92
+            },
+            "humidity": {
+                "noaa": 88.0,
+                "sg": 88.0
+            },
+            "time": "2023-04-28T21:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 199.48,
+                "sg": 199.48
+            },
+            "windSpeed": {
+                "noaa": 2.03,
+                "sg": 2.03
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 6.71,
+                "sg": 6.71
+            },
+            "humidity": {
+                "noaa": 87.33,
+                "sg": 87.33
+            },
+            "time": "2023-04-28T22:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 197.32,
+                "sg": 197.32
+            },
+            "windSpeed": {
+                "noaa": 1.99,
+                "sg": 1.99
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 6.5,
+                "sg": 6.5
+            },
+            "humidity": {
+                "noaa": 86.67,
+                "sg": 86.67
+            },
+            "time": "2023-04-28T23:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 195.15,
+                "sg": 195.15
+            },
+            "windSpeed": {
+                "noaa": 1.94,
+                "sg": 1.94
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 6.29,
+                "sg": 6.29
+            },
+            "humidity": {
+                "noaa": 86.0,
+                "sg": 86.0
+            },
+            "time": "2023-04-29T00:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 192.99,
+                "sg": 192.99
+            },
+            "windSpeed": {
+                "noaa": 1.9,
+                "sg": 1.9
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 6.17,
+                "sg": 6.17
+            },
+            "humidity": {
+                "noaa": 85.4,
+                "sg": 85.4
+            },
+            "time": "2023-04-29T01:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 189.12,
+                "sg": 189.12
+            },
+            "windSpeed": {
+                "noaa": 1.87,
+                "sg": 1.87
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 6.05,
+                "sg": 6.05
+            },
+            "humidity": {
+                "noaa": 84.8,
+                "sg": 84.8
+            },
+            "time": "2023-04-29T02:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 185.25,
+                "sg": 185.25
+            },
+            "windSpeed": {
+                "noaa": 1.84,
+                "sg": 1.84
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 5.93,
+                "sg": 5.93
+            },
+            "humidity": {
+                "noaa": 84.2,
+                "sg": 84.2
+            },
+            "time": "2023-04-29T03:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 181.38,
+                "sg": 181.38
+            },
+            "windSpeed": {
+                "noaa": 1.81,
+                "sg": 1.81
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 7.64,
+                "sg": 7.64
+            },
+            "humidity": {
+                "noaa": 80.03,
+                "sg": 80.03
+            },
+            "time": "2023-04-29T04:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 167.8,
+                "sg": 167.8
+            },
+            "windSpeed": {
+                "noaa": 1.63,
+                "sg": 1.63
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.35,
+                "sg": 9.35
+            },
+            "humidity": {
+                "noaa": 75.87,
+                "sg": 75.87
+            },
+            "time": "2023-04-29T05:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 154.21,
+                "sg": 154.21
+            },
+            "windSpeed": {
+                "noaa": 1.46,
+                "sg": 1.46
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 11.06,
+                "sg": 11.06
+            },
+            "humidity": {
+                "noaa": 71.7,
+                "sg": 71.7
+            },
+            "time": "2023-04-29T06:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 140.63,
+                "sg": 140.63
+            },
+            "windSpeed": {
+                "noaa": 1.28,
+                "sg": 1.28
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 12.32,
+                "sg": 12.32
+            },
+            "humidity": {
+                "noaa": 65.9,
+                "sg": 65.9
+            },
+            "time": "2023-04-29T07:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 137.73,
+                "sg": 137.73
+            },
+            "windSpeed": {
+                "noaa": 1.42,
+                "sg": 1.42
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 13.57,
+                "sg": 13.57
+            },
+            "humidity": {
+                "noaa": 60.1,
+                "sg": 60.1
+            },
+            "time": "2023-04-29T08:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 134.83,
+                "sg": 134.83
+            },
+            "windSpeed": {
+                "noaa": 1.56,
+                "sg": 1.56
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 14.82,
+                "sg": 14.82
+            },
+            "humidity": {
+                "noaa": 54.3,
+                "sg": 54.3
+            },
+            "time": "2023-04-29T09:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 131.93,
+                "sg": 131.93
+            },
+            "windSpeed": {
+                "noaa": 1.7,
+                "sg": 1.7
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.67,
+                "sg": 15.67
+            },
+            "humidity": {
+                "noaa": 51.73,
+                "sg": 51.73
+            },
+            "time": "2023-04-29T10:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 79.86,
+                "sg": 79.86
+            },
+            "windSpeed": {
+                "noaa": 1.37,
+                "sg": 1.37
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.51,
+                "sg": 16.51
+            },
+            "humidity": {
+                "noaa": 49.17,
+                "sg": 49.17
+            },
+            "time": "2023-04-29T11:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 27.78,
+                "sg": 27.78
+            },
+            "windSpeed": {
+                "noaa": 1.05,
+                "sg": 1.05
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.35,
+                "sg": 17.35
+            },
+            "humidity": {
+                "noaa": 46.6,
+                "sg": 46.6
+            },
+            "time": "2023-04-29T12:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 335.71,
+                "sg": 335.71
+            },
+            "windSpeed": {
+                "noaa": 0.72,
+                "sg": 0.72
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.77,
+                "sg": 16.77
+            },
+            "humidity": {
+                "noaa": 52.93,
+                "sg": 52.93
+            },
+            "time": "2023-04-29T13:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 356.63,
+                "sg": 356.63
+            },
+            "windSpeed": {
+                "noaa": 1.06,
+                "sg": 1.06
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.19,
+                "sg": 16.19
+            },
+            "humidity": {
+                "noaa": 59.27,
+                "sg": 59.27
+            },
+            "time": "2023-04-29T14:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 17.54,
+                "sg": 17.54
+            },
+            "windSpeed": {
+                "noaa": 1.4,
+                "sg": 1.4
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.61,
+                "sg": 15.61
+            },
+            "humidity": {
+                "noaa": 65.6,
+                "sg": 65.6
+            },
+            "time": "2023-04-29T15:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 38.46,
+                "sg": 38.46
+            },
+            "windSpeed": {
+                "noaa": 1.74,
+                "sg": 1.74
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 14.26,
+                "sg": 14.26
+            },
+            "humidity": {
+                "noaa": 68.1,
+                "sg": 68.1
+            },
+            "time": "2023-04-29T16:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 84.56,
+                "sg": 84.56
+            },
+            "windSpeed": {
+                "noaa": 1.59,
+                "sg": 1.59
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 12.92,
+                "sg": 12.92
+            },
+            "humidity": {
+                "noaa": 70.6,
+                "sg": 70.6
+            },
+            "time": "2023-04-29T17:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 130.67,
+                "sg": 130.67
+            },
+            "windSpeed": {
+                "noaa": 1.43,
+                "sg": 1.43
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 11.58,
+                "sg": 11.58
+            },
+            "humidity": {
+                "noaa": 73.1,
+                "sg": 73.1
+            },
+            "time": "2023-04-29T18:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 176.77,
+                "sg": 176.77
+            },
+            "windSpeed": {
+                "noaa": 1.28,
+                "sg": 1.28
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 11.01,
+                "sg": 11.01
+            },
+            "humidity": {
+                "noaa": 75.4,
+                "sg": 75.4
+            },
+            "time": "2023-04-29T19:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 182.86,
+                "sg": 182.86
+            },
+            "windSpeed": {
+                "noaa": 1.56,
+                "sg": 1.56
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.44,
+                "sg": 10.44
+            },
+            "humidity": {
+                "noaa": 77.7,
+                "sg": 77.7
+            },
+            "time": "2023-04-29T20:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 188.94,
+                "sg": 188.94
+            },
+            "windSpeed": {
+                "noaa": 1.83,
+                "sg": 1.83
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.88,
+                "sg": 9.88
+            },
+            "humidity": {
+                "noaa": 80.0,
+                "sg": 80.0
+            },
+            "time": "2023-04-29T21:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 195.03,
+                "sg": 195.03
+            },
+            "windSpeed": {
+                "noaa": 2.11,
+                "sg": 2.11
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.57,
+                "sg": 9.57
+            },
+            "humidity": {
+                "noaa": 80.73,
+                "sg": 80.73
+            },
+            "time": "2023-04-29T22:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 196.73,
+                "sg": 196.73
+            },
+            "windSpeed": {
+                "noaa": 2.03,
+                "sg": 2.03
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.27,
+                "sg": 9.27
+            },
+            "humidity": {
+                "noaa": 81.47,
+                "sg": 81.47
+            },
+            "time": "2023-04-29T23:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 198.43,
+                "sg": 198.43
+            },
+            "windSpeed": {
+                "noaa": 1.94,
+                "sg": 1.94
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.97,
+                "sg": 8.97
+            },
+            "humidity": {
+                "noaa": 82.2,
+                "sg": 82.2
+            },
+            "time": "2023-04-30T00:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 200.13,
+                "sg": 200.13
+            },
+            "windSpeed": {
+                "noaa": 1.86,
+                "sg": 1.86
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.69,
+                "sg": 8.69
+            },
+            "humidity": {
+                "noaa": 82.9,
+                "sg": 82.9
+            },
+            "time": "2023-04-30T01:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 201.34,
+                "sg": 201.34
+            },
+            "windSpeed": {
+                "noaa": 1.84,
+                "sg": 1.84
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.41,
+                "sg": 8.41
+            },
+            "humidity": {
+                "noaa": 83.6,
+                "sg": 83.6
+            },
+            "time": "2023-04-30T02:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 202.56,
+                "sg": 202.56
+            },
+            "windSpeed": {
+                "noaa": 1.82,
+                "sg": 1.82
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.14,
+                "sg": 8.14
+            },
+            "humidity": {
+                "noaa": 84.3,
+                "sg": 84.3
+            },
+            "time": "2023-04-30T03:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 203.77,
+                "sg": 203.77
+            },
+            "windSpeed": {
+                "noaa": 1.8,
+                "sg": 1.8
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.97,
+                "sg": 9.97
+            },
+            "humidity": {
+                "noaa": 78.27,
+                "sg": 78.27
+            },
+            "time": "2023-04-30T04:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 223.57,
+                "sg": 223.57
+            },
+            "windSpeed": {
+                "noaa": 1.62,
+                "sg": 1.62
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 11.8,
+                "sg": 11.8
+            },
+            "humidity": {
+                "noaa": 72.23,
+                "sg": 72.23
+            },
+            "time": "2023-04-30T05:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 243.38,
+                "sg": 243.38
+            },
+            "windSpeed": {
+                "noaa": 1.45,
+                "sg": 1.45
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 13.64,
+                "sg": 13.64
+            },
+            "humidity": {
+                "noaa": 66.2,
+                "sg": 66.2
+            },
+            "time": "2023-04-30T06:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 263.18,
+                "sg": 263.18
+            },
+            "windSpeed": {
+                "noaa": 1.27,
+                "sg": 1.27
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 14.63,
+                "sg": 14.63
+            },
+            "humidity": {
+                "noaa": 64.8,
+                "sg": 64.8
+            },
+            "time": "2023-04-30T07:00:00+00:00",
+            "visibility": {
+                "noaa": 19.13,
+                "sg": 19.13
+            },
+            "windDirection": {
+                "noaa": 278.97,
+                "sg": 278.97
+            },
+            "windSpeed": {
+                "noaa": 1.83,
+                "sg": 1.83
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.63,
+                "sg": 15.63
+            },
+            "humidity": {
+                "noaa": 63.4,
+                "sg": 63.4
+            },
+            "time": "2023-04-30T08:00:00+00:00",
+            "visibility": {
+                "noaa": 14.13,
+                "sg": 14.13
+            },
+            "windDirection": {
+                "noaa": 294.77,
+                "sg": 294.77
+            },
+            "windSpeed": {
+                "noaa": 2.39,
+                "sg": 2.39
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.63,
+                "sg": 16.63
+            },
+            "humidity": {
+                "noaa": 62.0,
+                "sg": 62.0
+            },
+            "time": "2023-04-30T09:00:00+00:00",
+            "visibility": {
+                "noaa": 9.13,
+                "sg": 9.13
+            },
+            "windDirection": {
+                "noaa": 310.56,
+                "sg": 310.56
+            },
+            "windSpeed": {
+                "noaa": 2.95,
+                "sg": 2.95
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.37,
+                "sg": 16.37
+            },
+            "humidity": {
+                "noaa": 66.17,
+                "sg": 66.17
+            },
+            "time": "2023-04-30T10:00:00+00:00",
+            "visibility": {
+                "noaa": 8.66,
+                "sg": 8.66
+            },
+            "windDirection": {
+                "noaa": 306.32,
+                "sg": 306.32
+            },
+            "windSpeed": {
+                "noaa": 3.39,
+                "sg": 3.39
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.1,
+                "sg": 16.1
+            },
+            "humidity": {
+                "noaa": 70.33,
+                "sg": 70.33
+            },
+            "time": "2023-04-30T11:00:00+00:00",
+            "visibility": {
+                "noaa": 8.2,
+                "sg": 8.2
+            },
+            "windDirection": {
+                "noaa": 302.09,
+                "sg": 302.09
+            },
+            "windSpeed": {
+                "noaa": 3.84,
+                "sg": 3.84
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.84,
+                "sg": 15.84
+            },
+            "humidity": {
+                "noaa": 74.5,
+                "sg": 74.5
+            },
+            "time": "2023-04-30T12:00:00+00:00",
+            "visibility": {
+                "noaa": 7.73,
+                "sg": 7.73
+            },
+            "windDirection": {
+                "noaa": 297.85,
+                "sg": 297.85
+            },
+            "windSpeed": {
+                "noaa": 4.28,
+                "sg": 4.28
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.42,
+                "sg": 15.42
+            },
+            "humidity": {
+                "noaa": 76.63,
+                "sg": 76.63
+            },
+            "time": "2023-04-30T13:00:00+00:00",
+            "visibility": {
+                "noaa": 11.07,
+                "sg": 11.07
+            },
+            "windDirection": {
+                "noaa": 287.29,
+                "sg": 287.29
+            },
+            "windSpeed": {
+                "noaa": 3.74,
+                "sg": 3.74
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 14.99,
+                "sg": 14.99
+            },
+            "humidity": {
+                "noaa": 78.77,
+                "sg": 78.77
+            },
+            "time": "2023-04-30T14:00:00+00:00",
+            "visibility": {
+                "noaa": 14.41,
+                "sg": 14.41
+            },
+            "windDirection": {
+                "noaa": 276.72,
+                "sg": 276.72
+            },
+            "windSpeed": {
+                "noaa": 3.2,
+                "sg": 3.2
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 14.57,
+                "sg": 14.57
+            },
+            "humidity": {
+                "noaa": 80.9,
+                "sg": 80.9
+            },
+            "time": "2023-04-30T15:00:00+00:00",
+            "visibility": {
+                "noaa": 17.74,
+                "sg": 17.74
+            },
+            "windDirection": {
+                "noaa": 266.16,
+                "sg": 266.16
+            },
+            "windSpeed": {
+                "noaa": 2.66,
+                "sg": 2.66
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 13.7,
+                "sg": 13.7
+            },
+            "humidity": {
+                "noaa": 82.67,
+                "sg": 82.67
+            },
+            "time": "2023-04-30T16:00:00+00:00",
+            "visibility": {
+                "noaa": 19.84,
+                "sg": 19.84
+            },
+            "windDirection": {
+                "noaa": 260.75,
+                "sg": 260.75
+            },
+            "windSpeed": {
+                "noaa": 2.79,
+                "sg": 2.79
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 12.82,
+                "sg": 12.82
+            },
+            "humidity": {
+                "noaa": 84.43,
+                "sg": 84.43
+            },
+            "time": "2023-04-30T17:00:00+00:00",
+            "visibility": {
+                "noaa": 21.94,
+                "sg": 21.94
+            },
+            "windDirection": {
+                "noaa": 255.34,
+                "sg": 255.34
+            },
+            "windSpeed": {
+                "noaa": 2.93,
+                "sg": 2.93
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 11.95,
+                "sg": 11.95
+            },
+            "humidity": {
+                "noaa": 86.2,
+                "sg": 86.2
+            },
+            "time": "2023-04-30T18:00:00+00:00",
+            "visibility": {
+                "noaa": 24.04,
+                "sg": 24.04
+            },
+            "windDirection": {
+                "noaa": 249.93,
+                "sg": 249.93
+            },
+            "windSpeed": {
+                "noaa": 3.06,
+                "sg": 3.06
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 11.67,
+                "sg": 11.67
+            },
+            "humidity": {
+                "noaa": 87.27,
+                "sg": 87.27
+            },
+            "time": "2023-04-30T19:00:00+00:00",
+            "visibility": {
+                "noaa": 20.06,
+                "sg": 20.06
+            },
+            "windDirection": {
+                "noaa": 259.56,
+                "sg": 259.56
+            },
+            "windSpeed": {
+                "noaa": 3.31,
+                "sg": 3.31
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 11.4,
+                "sg": 11.4
+            },
+            "humidity": {
+                "noaa": 88.33,
+                "sg": 88.33
+            },
+            "time": "2023-04-30T20:00:00+00:00",
+            "visibility": {
+                "noaa": 16.09,
+                "sg": 16.09
+            },
+            "windDirection": {
+                "noaa": 269.19,
+                "sg": 269.19
+            },
+            "windSpeed": {
+                "noaa": 3.57,
+                "sg": 3.57
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 11.12,
+                "sg": 11.12
+            },
+            "humidity": {
+                "noaa": 89.4,
+                "sg": 89.4
+            },
+            "time": "2023-04-30T21:00:00+00:00",
+            "visibility": {
+                "noaa": 12.12,
+                "sg": 12.12
+            },
+            "windDirection": {
+                "noaa": 278.82,
+                "sg": 278.82
+            },
+            "windSpeed": {
+                "noaa": 3.82,
+                "sg": 3.82
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.86,
+                "sg": 10.86
+            },
+            "humidity": {
+                "noaa": 91.87,
+                "sg": 91.87
+            },
+            "time": "2023-04-30T22:00:00+00:00",
+            "visibility": {
+                "noaa": 14.05,
+                "sg": 14.05
+            },
+            "windDirection": {
+                "noaa": 282.35,
+                "sg": 282.35
+            },
+            "windSpeed": {
+                "noaa": 3.56,
+                "sg": 3.56
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.59,
+                "sg": 10.59
+            },
+            "humidity": {
+                "noaa": 94.33,
+                "sg": 94.33
+            },
+            "time": "2023-04-30T23:00:00+00:00",
+            "visibility": {
+                "noaa": 15.99,
+                "sg": 15.99
+            },
+            "windDirection": {
+                "noaa": 285.88,
+                "sg": 285.88
+            },
+            "windSpeed": {
+                "noaa": 3.29,
+                "sg": 3.29
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.32,
+                "sg": 10.32
+            },
+            "humidity": {
+                "noaa": 96.8,
+                "sg": 96.8
+            },
+            "time": "2023-05-01T00:00:00+00:00",
+            "visibility": {
+                "noaa": 17.93,
+                "sg": 17.93
+            },
+            "windDirection": {
+                "noaa": 289.41,
+                "sg": 289.41
+            },
+            "windSpeed": {
+                "noaa": 3.03,
+                "sg": 3.03
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.15,
+                "sg": 10.15
+            },
+            "humidity": {
+                "noaa": 97.13,
+                "sg": 97.13
+            },
+            "time": "2023-05-01T01:00:00+00:00",
+            "visibility": {
+                "noaa": 17.17,
+                "sg": 17.17
+            },
+            "windDirection": {
+                "noaa": 294.28,
+                "sg": 294.28
+            },
+            "windSpeed": {
+                "noaa": 2.51,
+                "sg": 2.51
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.98,
+                "sg": 9.98
+            },
+            "humidity": {
+                "noaa": 97.47,
+                "sg": 97.47
+            },
+            "time": "2023-05-01T02:00:00+00:00",
+            "visibility": {
+                "noaa": 16.41,
+                "sg": 16.41
+            },
+            "windDirection": {
+                "noaa": 299.16,
+                "sg": 299.16
+            },
+            "windSpeed": {
+                "noaa": 1.98,
+                "sg": 1.98
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.81,
+                "sg": 9.81
+            },
+            "humidity": {
+                "noaa": 97.8,
+                "sg": 97.8
+            },
+            "time": "2023-05-01T03:00:00+00:00",
+            "visibility": {
+                "noaa": 15.66,
+                "sg": 15.66
+            },
+            "windDirection": {
+                "noaa": 304.03,
+                "sg": 304.03
+            },
+            "windSpeed": {
+                "noaa": 1.46,
+                "sg": 1.46
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.95,
+                "sg": 9.95
+            },
+            "humidity": {
+                "noaa": 96.7,
+                "sg": 96.7
+            },
+            "time": "2023-05-01T04:00:00+00:00",
+            "visibility": {
+                "noaa": 17.94,
+                "sg": 17.94
+            },
+            "windDirection": {
+                "noaa": 311.09,
+                "sg": 311.09
+            },
+            "windSpeed": {
+                "noaa": 1.57,
+                "sg": 1.57
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.09,
+                "sg": 10.09
+            },
+            "humidity": {
+                "noaa": 95.6,
+                "sg": 95.6
+            },
+            "time": "2023-05-01T05:00:00+00:00",
+            "visibility": {
+                "noaa": 20.22,
+                "sg": 20.22
+            },
+            "windDirection": {
+                "noaa": 318.16,
+                "sg": 318.16
+            },
+            "windSpeed": {
+                "noaa": 1.68,
+                "sg": 1.68
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.23,
+                "sg": 10.23
+            },
+            "humidity": {
+                "noaa": 94.5,
+                "sg": 94.5
+            },
+            "time": "2023-05-01T06:00:00+00:00",
+            "visibility": {
+                "noaa": 22.51,
+                "sg": 22.51
+            },
+            "windDirection": {
+                "noaa": 325.22,
+                "sg": 325.22
+            },
+            "windSpeed": {
+                "noaa": 1.79,
+                "sg": 1.79
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 11.19,
+                "sg": 11.19
+            },
+            "humidity": {
+                "noaa": 90.97,
+                "sg": 90.97
+            },
+            "time": "2023-05-01T07:00:00+00:00",
+            "visibility": {
+                "noaa": 21.35,
+                "sg": 21.35
+            },
+            "windDirection": {
+                "noaa": 342.65,
+                "sg": 342.65
+            },
+            "windSpeed": {
+                "noaa": 1.98,
+                "sg": 1.98
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 12.15,
+                "sg": 12.15
+            },
+            "humidity": {
+                "noaa": 87.43,
+                "sg": 87.43
+            },
+            "time": "2023-05-01T08:00:00+00:00",
+            "visibility": {
+                "noaa": 20.19,
+                "sg": 20.19
+            },
+            "windDirection": {
+                "noaa": 0.08,
+                "sg": 0.08
+            },
+            "windSpeed": {
+                "noaa": 2.17,
+                "sg": 2.17
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 13.11,
+                "sg": 13.11
+            },
+            "humidity": {
+                "noaa": 83.9,
+                "sg": 83.9
+            },
+            "time": "2023-05-01T09:00:00+00:00",
+            "visibility": {
+                "noaa": 19.03,
+                "sg": 19.03
+            },
+            "windDirection": {
+                "noaa": 17.51,
+                "sg": 17.51
+            },
+            "windSpeed": {
+                "noaa": 2.36,
+                "sg": 2.36
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 14.01,
+                "sg": 14.01
+            },
+            "humidity": {
+                "noaa": 77.7,
+                "sg": 77.7
+            },
+            "time": "2023-05-01T10:00:00+00:00",
+            "visibility": {
+                "noaa": 20.73,
+                "sg": 20.73
+            },
+            "windDirection": {
+                "noaa": 27.71,
+                "sg": 27.71
+            },
+            "windSpeed": {
+                "noaa": 2.36,
+                "sg": 2.36
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 14.91,
+                "sg": 14.91
+            },
+            "humidity": {
+                "noaa": 71.5,
+                "sg": 71.5
+            },
+            "time": "2023-05-01T11:00:00+00:00",
+            "visibility": {
+                "noaa": 22.43,
+                "sg": 22.43
+            },
+            "windDirection": {
+                "noaa": 37.91,
+                "sg": 37.91
+            },
+            "windSpeed": {
+                "noaa": 2.36,
+                "sg": 2.36
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.8,
+                "sg": 15.8
+            },
+            "humidity": {
+                "noaa": 65.3,
+                "sg": 65.3
+            },
+            "time": "2023-05-01T12:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 48.11,
+                "sg": 48.11
+            },
+            "windSpeed": {
+                "noaa": 2.36,
+                "sg": 2.36
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.62,
+                "sg": 15.62
+            },
+            "humidity": {
+                "noaa": 66.17,
+                "sg": 66.17
+            },
+            "time": "2023-05-01T13:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 48.91,
+                "sg": 48.91
+            },
+            "windSpeed": {
+                "noaa": 2.27,
+                "sg": 2.27
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.44,
+                "sg": 15.44
+            },
+            "humidity": {
+                "noaa": 67.03,
+                "sg": 67.03
+            },
+            "time": "2023-05-01T14:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 49.72,
+                "sg": 49.72
+            },
+            "windSpeed": {
+                "noaa": 2.18,
+                "sg": 2.18
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.26,
+                "sg": 15.26
+            },
+            "humidity": {
+                "noaa": 67.9,
+                "sg": 67.9
+            },
+            "time": "2023-05-01T15:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 50.52,
+                "sg": 50.52
+            },
+            "windSpeed": {
+                "noaa": 2.09,
+                "sg": 2.09
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 13.7,
+                "sg": 13.7
+            },
+            "humidity": {
+                "noaa": 75.07,
+                "sg": 75.07
+            },
+            "time": "2023-05-01T16:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 80.64,
+                "sg": 80.64
+            },
+            "windSpeed": {
+                "noaa": 1.88,
+                "sg": 1.88
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 12.15,
+                "sg": 12.15
+            },
+            "humidity": {
+                "noaa": 82.23,
+                "sg": 82.23
+            },
+            "time": "2023-05-01T17:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 110.75,
+                "sg": 110.75
+            },
+            "windSpeed": {
+                "noaa": 1.67,
+                "sg": 1.67
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.6,
+                "sg": 10.6
+            },
+            "humidity": {
+                "noaa": 89.4,
+                "sg": 89.4
+            },
+            "time": "2023-05-01T18:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 140.87,
+                "sg": 140.87
+            },
+            "windSpeed": {
+                "noaa": 1.46,
+                "sg": 1.46
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.07,
+                "sg": 10.07
+            },
+            "humidity": {
+                "noaa": 90.17,
+                "sg": 90.17
+            },
+            "time": "2023-05-01T19:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 149.64,
+                "sg": 149.64
+            },
+            "windSpeed": {
+                "noaa": 1.54,
+                "sg": 1.54
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.54,
+                "sg": 9.54
+            },
+            "humidity": {
+                "noaa": 90.93,
+                "sg": 90.93
+            },
+            "time": "2023-05-01T20:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 158.41,
+                "sg": 158.41
+            },
+            "windSpeed": {
+                "noaa": 1.63,
+                "sg": 1.63
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.01,
+                "sg": 9.01
+            },
+            "humidity": {
+                "noaa": 91.7,
+                "sg": 91.7
+            },
+            "time": "2023-05-01T21:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 167.18,
+                "sg": 167.18
+            },
+            "windSpeed": {
+                "noaa": 1.71,
+                "sg": 1.71
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.86,
+                "sg": 8.86
+            },
+            "humidity": {
+                "noaa": 91.9,
+                "sg": 91.9
+            },
+            "time": "2023-05-01T22:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 168.04,
+                "sg": 168.04
+            },
+            "windSpeed": {
+                "noaa": 1.72,
+                "sg": 1.72
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.71,
+                "sg": 8.71
+            },
+            "humidity": {
+                "noaa": 92.1,
+                "sg": 92.1
+            },
+            "time": "2023-05-01T23:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 168.91,
+                "sg": 168.91
+            },
+            "windSpeed": {
+                "noaa": 1.74,
+                "sg": 1.74
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.56,
+                "sg": 8.56
+            },
+            "humidity": {
+                "noaa": 92.3,
+                "sg": 92.3
+            },
+            "time": "2023-05-02T00:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 169.77,
+                "sg": 169.77
+            },
+            "windSpeed": {
+                "noaa": 1.75,
+                "sg": 1.75
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.47,
+                "sg": 8.47
+            },
+            "humidity": {
+                "noaa": 92.1,
+                "sg": 92.1
+            },
+            "time": "2023-05-02T01:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 170.91,
+                "sg": 170.91
+            },
+            "windSpeed": {
+                "noaa": 1.69,
+                "sg": 1.69
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.39,
+                "sg": 8.39
+            },
+            "humidity": {
+                "noaa": 91.9,
+                "sg": 91.9
+            },
+            "time": "2023-05-02T02:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 172.04,
+                "sg": 172.04
+            },
+            "windSpeed": {
+                "noaa": 1.62,
+                "sg": 1.62
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.3,
+                "sg": 8.3
+            },
+            "humidity": {
+                "noaa": 91.7,
+                "sg": 91.7
+            },
+            "time": "2023-05-02T03:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 173.18,
+                "sg": 173.18
+            },
+            "windSpeed": {
+                "noaa": 1.56,
+                "sg": 1.56
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.03,
+                "sg": 10.03
+            },
+            "humidity": {
+                "noaa": 85.83,
+                "sg": 85.83
+            },
+            "time": "2023-05-02T04:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 154.38,
+                "sg": 154.38
+            },
+            "windSpeed": {
+                "noaa": 1.52,
+                "sg": 1.52
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 11.76,
+                "sg": 11.76
+            },
+            "humidity": {
+                "noaa": 79.97,
+                "sg": 79.97
+            },
+            "time": "2023-05-02T05:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 135.58,
+                "sg": 135.58
+            },
+            "windSpeed": {
+                "noaa": 1.48,
+                "sg": 1.48
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 13.49,
+                "sg": 13.49
+            },
+            "humidity": {
+                "noaa": 74.1,
+                "sg": 74.1
+            },
+            "time": "2023-05-02T06:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 116.78,
+                "sg": 116.78
+            },
+            "windSpeed": {
+                "noaa": 1.44,
+                "sg": 1.44
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.15,
+                "sg": 15.15
+            },
+            "humidity": {
+                "noaa": 67.03,
+                "sg": 67.03
+            },
+            "time": "2023-05-02T07:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 123.51,
+                "sg": 123.51
+            },
+            "windSpeed": {
+                "noaa": 1.82,
+                "sg": 1.82
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.81,
+                "sg": 16.81
+            },
+            "humidity": {
+                "noaa": 59.97,
+                "sg": 59.97
+            },
+            "time": "2023-05-02T08:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 130.23,
+                "sg": 130.23
+            },
+            "windSpeed": {
+                "noaa": 2.2,
+                "sg": 2.2
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 18.47,
+                "sg": 18.47
+            },
+            "humidity": {
+                "noaa": 52.9,
+                "sg": 52.9
+            },
+            "time": "2023-05-02T09:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 136.96,
+                "sg": 136.96
+            },
+            "windSpeed": {
+                "noaa": 2.58,
+                "sg": 2.58
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 18.73,
+                "sg": 18.73
+            },
+            "humidity": {
+                "noaa": 52.13,
+                "sg": 52.13
+            },
+            "time": "2023-05-02T10:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 144.1,
+                "sg": 144.1
+            },
+            "windSpeed": {
+                "noaa": 2.92,
+                "sg": 2.92
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 18.99,
+                "sg": 18.99
+            },
+            "humidity": {
+                "noaa": 51.37,
+                "sg": 51.37
+            },
+            "time": "2023-05-02T11:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 151.25,
+                "sg": 151.25
+            },
+            "windSpeed": {
+                "noaa": 3.26,
+                "sg": 3.26
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 19.25,
+                "sg": 19.25
+            },
+            "humidity": {
+                "noaa": 50.6,
+                "sg": 50.6
+            },
+            "time": "2023-05-02T12:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 158.39,
+                "sg": 158.39
+            },
+            "windSpeed": {
+                "noaa": 3.6,
+                "sg": 3.6
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 18.66,
+                "sg": 18.66
+            },
+            "humidity": {
+                "noaa": 52.33,
+                "sg": 52.33
+            },
+            "time": "2023-05-02T13:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 154.47,
+                "sg": 154.47
+            },
+            "windSpeed": {
+                "noaa": 3.97,
+                "sg": 3.97
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 18.07,
+                "sg": 18.07
+            },
+            "humidity": {
+                "noaa": 54.07,
+                "sg": 54.07
+            },
+            "time": "2023-05-02T14:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 150.55,
+                "sg": 150.55
+            },
+            "windSpeed": {
+                "noaa": 4.35,
+                "sg": 4.35
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.49,
+                "sg": 17.49
+            },
+            "humidity": {
+                "noaa": 55.8,
+                "sg": 55.8
+            },
+            "time": "2023-05-02T15:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 146.63,
+                "sg": 146.63
+            },
+            "windSpeed": {
+                "noaa": 4.72,
+                "sg": 4.72
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.64,
+                "sg": 15.64
+            },
+            "humidity": {
+                "noaa": 63.9,
+                "sg": 63.9
+            },
+            "time": "2023-05-02T16:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 154.5,
+                "sg": 154.5
+            },
+            "windSpeed": {
+                "noaa": 4.01,
+                "sg": 4.01
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 13.79,
+                "sg": 13.79
+            },
+            "humidity": {
+                "noaa": 72.0,
+                "sg": 72.0
+            },
+            "time": "2023-05-02T17:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 162.38,
+                "sg": 162.38
+            },
+            "windSpeed": {
+                "noaa": 3.3,
+                "sg": 3.3
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 11.94,
+                "sg": 11.94
+            },
+            "humidity": {
+                "noaa": 80.1,
+                "sg": 80.1
+            },
+            "time": "2023-05-02T18:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 170.25,
+                "sg": 170.25
+            },
+            "windSpeed": {
+                "noaa": 2.59,
+                "sg": 2.59
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 11.5,
+                "sg": 11.5
+            },
+            "humidity": {
+                "noaa": 82.27,
+                "sg": 82.27
+            },
+            "time": "2023-05-02T19:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 167.48,
+                "sg": 167.48
+            },
+            "windSpeed": {
+                "noaa": 2.57,
+                "sg": 2.57
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 11.07,
+                "sg": 11.07
+            },
+            "humidity": {
+                "noaa": 84.43,
+                "sg": 84.43
+            },
+            "time": "2023-05-02T20:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 164.72,
+                "sg": 164.72
+            },
+            "windSpeed": {
+                "noaa": 2.54,
+                "sg": 2.54
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.63,
+                "sg": 10.63
+            },
+            "humidity": {
+                "noaa": 86.6,
+                "sg": 86.6
+            },
+            "time": "2023-05-02T21:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 161.95,
+                "sg": 161.95
+            },
+            "windSpeed": {
+                "noaa": 2.52,
+                "sg": 2.52
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.22,
+                "sg": 10.22
+            },
+            "humidity": {
+                "noaa": 85.33,
+                "sg": 85.33
+            },
+            "time": "2023-05-02T22:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 167.87,
+                "sg": 167.87
+            },
+            "windSpeed": {
+                "noaa": 2.38,
+                "sg": 2.38
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.81,
+                "sg": 9.81
+            },
+            "humidity": {
+                "noaa": 84.07,
+                "sg": 84.07
+            },
+            "time": "2023-05-02T23:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 173.79,
+                "sg": 173.79
+            },
+            "windSpeed": {
+                "noaa": 2.25,
+                "sg": 2.25
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.4,
+                "sg": 9.4
+            },
+            "humidity": {
+                "noaa": 82.8,
+                "sg": 82.8
+            },
+            "time": "2023-05-03T00:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 179.71,
+                "sg": 179.71
+            },
+            "windSpeed": {
+                "noaa": 2.11,
+                "sg": 2.11
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.7,
+                "sg": 8.7
+            },
+            "humidity": {
+                "noaa": 78.6,
+                "sg": 78.6
+            },
+            "time": "2023-05-03T01:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 173.56,
+                "sg": 173.56
+            },
+            "windSpeed": {
+                "noaa": 2.23,
+                "sg": 2.23
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 7.99,
+                "sg": 7.99
+            },
+            "humidity": {
+                "noaa": 74.4,
+                "sg": 74.4
+            },
+            "time": "2023-05-03T02:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 167.41,
+                "sg": 167.41
+            },
+            "windSpeed": {
+                "noaa": 2.35,
+                "sg": 2.35
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 7.29,
+                "sg": 7.29
+            },
+            "humidity": {
+                "noaa": 70.2,
+                "sg": 70.2
+            },
+            "time": "2023-05-03T03:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 161.26,
+                "sg": 161.26
+            },
+            "windSpeed": {
+                "noaa": 2.47,
+                "sg": 2.47
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.74,
+                "sg": 9.74
+            },
+            "humidity": {
+                "noaa": 69.5,
+                "sg": 69.5
+            },
+            "time": "2023-05-03T04:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 159.21,
+                "sg": 159.21
+            },
+            "windSpeed": {
+                "noaa": 1.83,
+                "sg": 1.83
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 12.19,
+                "sg": 12.19
+            },
+            "humidity": {
+                "noaa": 68.8,
+                "sg": 68.8
+            },
+            "time": "2023-05-03T05:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 157.17,
+                "sg": 157.17
+            },
+            "windSpeed": {
+                "noaa": 1.18,
+                "sg": 1.18
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 14.65,
+                "sg": 14.65
+            },
+            "humidity": {
+                "noaa": 68.1,
+                "sg": 68.1
+            },
+            "time": "2023-05-03T06:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 155.12,
+                "sg": 155.12
+            },
+            "windSpeed": {
+                "noaa": 0.54,
+                "sg": 0.54
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.73,
+                "sg": 15.73
+            },
+            "humidity": {
+                "noaa": 60.0,
+                "sg": 60.0
+            },
+            "time": "2023-05-03T07:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 164.97,
+                "sg": 164.97
+            },
+            "windSpeed": {
+                "noaa": 1.21,
+                "sg": 1.21
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.81,
+                "sg": 16.81
+            },
+            "humidity": {
+                "noaa": 51.9,
+                "sg": 51.9
+            },
+            "time": "2023-05-03T08:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 174.83,
+                "sg": 174.83
+            },
+            "windSpeed": {
+                "noaa": 1.88,
+                "sg": 1.88
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.89,
+                "sg": 17.89
+            },
+            "humidity": {
+                "noaa": 43.8,
+                "sg": 43.8
+            },
+            "time": "2023-05-03T09:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 184.68,
+                "sg": 184.68
+            },
+            "windSpeed": {
+                "noaa": 2.55,
+                "sg": 2.55
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 18.06,
+                "sg": 18.06
+            },
+            "humidity": {
+                "noaa": 44.93,
+                "sg": 44.93
+            },
+            "time": "2023-05-03T10:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 181.98,
+                "sg": 181.98
+            },
+            "windSpeed": {
+                "noaa": 3.33,
+                "sg": 3.33
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 18.24,
+                "sg": 18.24
+            },
+            "humidity": {
+                "noaa": 46.07,
+                "sg": 46.07
+            },
+            "time": "2023-05-03T11:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 179.27,
+                "sg": 179.27
+            },
+            "windSpeed": {
+                "noaa": 4.1,
+                "sg": 4.1
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 18.41,
+                "sg": 18.41
+            },
+            "humidity": {
+                "noaa": 47.2,
+                "sg": 47.2
+            },
+            "time": "2023-05-03T12:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 176.57,
+                "sg": 176.57
+            },
+            "windSpeed": {
+                "noaa": 4.88,
+                "sg": 4.88
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 17.34,
+                "sg": 17.34
+            },
+            "humidity": {
+                "noaa": 54.9,
+                "sg": 54.9
+            },
+            "time": "2023-05-03T13:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 184.55,
+                "sg": 184.55
+            },
+            "windSpeed": {
+                "noaa": 3.96,
+                "sg": 3.96
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 16.28,
+                "sg": 16.28
+            },
+            "humidity": {
+                "noaa": 62.6,
+                "sg": 62.6
+            },
+            "time": "2023-05-03T14:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 192.54,
+                "sg": 192.54
+            },
+            "windSpeed": {
+                "noaa": 3.04,
+                "sg": 3.04
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 15.21,
+                "sg": 15.21
+            },
+            "humidity": {
+                "noaa": 70.3,
+                "sg": 70.3
+            },
+            "time": "2023-05-03T15:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 200.52,
+                "sg": 200.52
+            },
+            "windSpeed": {
+                "noaa": 2.12,
+                "sg": 2.12
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 14.18,
+                "sg": 14.18
+            },
+            "humidity": {
+                "noaa": 75.9,
+                "sg": 75.9
+            },
+            "time": "2023-05-03T16:00:00+00:00",
+            "visibility": {
+                "noaa": 23.38,
+                "sg": 23.38
+            },
+            "windDirection": {
+                "noaa": 191.25,
+                "sg": 191.25
+            },
+            "windSpeed": {
+                "noaa": 2.15,
+                "sg": 2.15
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 13.15,
+                "sg": 13.15
+            },
+            "humidity": {
+                "noaa": 81.5,
+                "sg": 81.5
+            },
+            "time": "2023-05-03T17:00:00+00:00",
+            "visibility": {
+                "noaa": 22.63,
+                "sg": 22.63
+            },
+            "windDirection": {
+                "noaa": 181.99,
+                "sg": 181.99
+            },
+            "windSpeed": {
+                "noaa": 2.19,
+                "sg": 2.19
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 12.12,
+                "sg": 12.12
+            },
+            "humidity": {
+                "noaa": 87.1,
+                "sg": 87.1
+            },
+            "time": "2023-05-03T18:00:00+00:00",
+            "visibility": {
+                "noaa": 21.87,
+                "sg": 21.87
+            },
+            "windDirection": {
+                "noaa": 172.72,
+                "sg": 172.72
+            },
+            "windSpeed": {
+                "noaa": 2.22,
+                "sg": 2.22
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 11.59,
+                "sg": 11.59
+            },
+            "humidity": {
+                "noaa": 86.47,
+                "sg": 86.47
+            },
+            "time": "2023-05-03T19:00:00+00:00",
+            "visibility": {
+                "noaa": 22.63,
+                "sg": 22.63
+            },
+            "windDirection": {
+                "noaa": 173.18,
+                "sg": 173.18
+            },
+            "windSpeed": {
+                "noaa": 2.08,
+                "sg": 2.08
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 11.07,
+                "sg": 11.07
+            },
+            "humidity": {
+                "noaa": 85.83,
+                "sg": 85.83
+            },
+            "time": "2023-05-03T20:00:00+00:00",
+            "visibility": {
+                "noaa": 23.38,
+                "sg": 23.38
+            },
+            "windDirection": {
+                "noaa": 173.63,
+                "sg": 173.63
+            },
+            "windSpeed": {
+                "noaa": 1.95,
+                "sg": 1.95
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.55,
+                "sg": 10.55
+            },
+            "humidity": {
+                "noaa": 85.2,
+                "sg": 85.2
+            },
+            "time": "2023-05-03T21:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 174.09,
+                "sg": 174.09
+            },
+            "windSpeed": {
+                "noaa": 1.81,
+                "sg": 1.81
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.05,
+                "sg": 10.05
+            },
+            "humidity": {
+                "noaa": 84.13,
+                "sg": 84.13
+            },
+            "time": "2023-05-03T22:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 182.37,
+                "sg": 182.37
+            },
+            "windSpeed": {
+                "noaa": 1.77,
+                "sg": 1.77
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.55,
+                "sg": 9.55
+            },
+            "humidity": {
+                "noaa": 83.07,
+                "sg": 83.07
+            },
+            "time": "2023-05-03T23:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 190.66,
+                "sg": 190.66
+            },
+            "windSpeed": {
+                "noaa": 1.73,
+                "sg": 1.73
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.05,
+                "sg": 9.05
+            },
+            "humidity": {
+                "noaa": 82.0,
+                "sg": 82.0
+            },
+            "time": "2023-05-04T00:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 198.94,
+                "sg": 198.94
+            },
+            "windSpeed": {
+                "noaa": 1.69,
+                "sg": 1.69
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.32,
+                "sg": 9.32
+            },
+            "humidity": {
+                "noaa": 83.72,
+                "sg": 83.72
+            },
+            "time": "2023-05-04T01:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 201.32,
+                "sg": 201.32
+            },
+            "windSpeed": {
+                "noaa": 1.62,
+                "sg": 1.62
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.59,
+                "sg": 9.59
+            },
+            "humidity": {
+                "noaa": 85.43,
+                "sg": 85.43
+            },
+            "time": "2023-05-04T02:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 203.69,
+                "sg": 203.69
+            },
+            "windSpeed": {
+                "noaa": 1.55,
+                "sg": 1.55
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.86,
+                "sg": 9.86
+            },
+            "humidity": {
+                "noaa": 87.15,
+                "sg": 87.15
+            },
+            "time": "2023-05-04T03:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 206.07,
+                "sg": 206.07
+            },
+            "windSpeed": {
+                "noaa": 1.48,
+                "sg": 1.48
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.13,
+                "sg": 10.13
+            },
+            "humidity": {
+                "noaa": 88.87,
+                "sg": 88.87
+            },
+            "time": "2023-05-04T04:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 208.45,
+                "sg": 208.45
+            },
+            "windSpeed": {
+                "noaa": 1.41,
+                "sg": 1.41
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.4,
+                "sg": 10.4
+            },
+            "humidity": {
+                "noaa": 90.58,
+                "sg": 90.58
+            },
+            "time": "2023-05-04T05:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 210.82,
+                "sg": 210.82
+            },
+            "windSpeed": {
+                "noaa": 1.34,
+                "sg": 1.34
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.67,
+                "sg": 10.67
+            },
+            "humidity": {
+                "noaa": 92.3,
+                "sg": 92.3
+            },
+            "time": "2023-05-04T06:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 213.2,
+                "sg": 213.2
+            },
+            "windSpeed": {
+                "noaa": 1.27,
+                "sg": 1.27
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.71,
+                "sg": 10.71
+            },
+            "humidity": {
+                "noaa": 92.82,
+                "sg": 92.82
+            },
+            "time": "2023-05-04T07:00:00+00:00",
+            "visibility": {
+                "noaa": 23.82,
+                "sg": 23.82
+            },
+            "windDirection": {
+                "noaa": 225.37,
+                "sg": 225.37
+            },
+            "windSpeed": {
+                "noaa": 1.51,
+                "sg": 1.51
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.74,
+                "sg": 10.74
+            },
+            "humidity": {
+                "noaa": 93.33,
+                "sg": 93.33
+            },
+            "time": "2023-05-04T08:00:00+00:00",
+            "visibility": {
+                "noaa": 23.51,
+                "sg": 23.51
+            },
+            "windDirection": {
+                "noaa": 237.54,
+                "sg": 237.54
+            },
+            "windSpeed": {
+                "noaa": 1.76,
+                "sg": 1.76
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.78,
+                "sg": 10.78
+            },
+            "humidity": {
+                "noaa": 93.85,
+                "sg": 93.85
+            },
+            "time": "2023-05-04T09:00:00+00:00",
+            "visibility": {
+                "noaa": 23.2,
+                "sg": 23.2
+            },
+            "windDirection": {
+                "noaa": 249.7,
+                "sg": 249.7
+            },
+            "windSpeed": {
+                "noaa": 2.0,
+                "sg": 2.0
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.82,
+                "sg": 10.82
+            },
+            "humidity": {
+                "noaa": 94.37,
+                "sg": 94.37
+            },
+            "time": "2023-05-04T10:00:00+00:00",
+            "visibility": {
+                "noaa": 22.89,
+                "sg": 22.89
+            },
+            "windDirection": {
+                "noaa": 261.87,
+                "sg": 261.87
+            },
+            "windSpeed": {
+                "noaa": 2.24,
+                "sg": 2.24
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.85,
+                "sg": 10.85
+            },
+            "humidity": {
+                "noaa": 94.88,
+                "sg": 94.88
+            },
+            "time": "2023-05-04T11:00:00+00:00",
+            "visibility": {
+                "noaa": 22.58,
+                "sg": 22.58
+            },
+            "windDirection": {
+                "noaa": 274.04,
+                "sg": 274.04
+            },
+            "windSpeed": {
+                "noaa": 2.49,
+                "sg": 2.49
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.89,
+                "sg": 10.89
+            },
+            "humidity": {
+                "noaa": 95.4,
+                "sg": 95.4
+            },
+            "time": "2023-05-04T12:00:00+00:00",
+            "visibility": {
+                "noaa": 22.27,
+                "sg": 22.27
+            },
+            "windDirection": {
+                "noaa": 286.21,
+                "sg": 286.21
+            },
+            "windSpeed": {
+                "noaa": 2.73,
+                "sg": 2.73
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 11.28,
+                "sg": 11.28
+            },
+            "humidity": {
+                "noaa": 93.97,
+                "sg": 93.97
+            },
+            "time": "2023-05-04T13:00:00+00:00",
+            "visibility": {
+                "noaa": 18.77,
+                "sg": 18.77
+            },
+            "windDirection": {
+                "noaa": 293.12,
+                "sg": 293.12
+            },
+            "windSpeed": {
+                "noaa": 2.64,
+                "sg": 2.64
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 11.68,
+                "sg": 11.68
+            },
+            "humidity": {
+                "noaa": 92.53,
+                "sg": 92.53
+            },
+            "time": "2023-05-04T14:00:00+00:00",
+            "visibility": {
+                "noaa": 15.27,
+                "sg": 15.27
+            },
+            "windDirection": {
+                "noaa": 300.03,
+                "sg": 300.03
+            },
+            "windSpeed": {
+                "noaa": 2.56,
+                "sg": 2.56
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 12.08,
+                "sg": 12.08
+            },
+            "humidity": {
+                "noaa": 91.1,
+                "sg": 91.1
+            },
+            "time": "2023-05-04T15:00:00+00:00",
+            "visibility": {
+                "noaa": 11.76,
+                "sg": 11.76
+            },
+            "windDirection": {
+                "noaa": 306.94,
+                "sg": 306.94
+            },
+            "windSpeed": {
+                "noaa": 2.47,
+                "sg": 2.47
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 11.38,
+                "sg": 11.38
+            },
+            "humidity": {
+                "noaa": 92.93,
+                "sg": 92.93
+            },
+            "time": "2023-05-04T16:00:00+00:00",
+            "visibility": {
+                "noaa": 12.57,
+                "sg": 12.57
+            },
+            "windDirection": {
+                "noaa": 305.03,
+                "sg": 305.03
+            },
+            "windSpeed": {
+                "noaa": 3.09,
+                "sg": 3.09
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.69,
+                "sg": 10.69
+            },
+            "humidity": {
+                "noaa": 94.77,
+                "sg": 94.77
+            },
+            "time": "2023-05-04T17:00:00+00:00",
+            "visibility": {
+                "noaa": 13.37,
+                "sg": 13.37
+            },
+            "windDirection": {
+                "noaa": 303.11,
+                "sg": 303.11
+            },
+            "windSpeed": {
+                "noaa": 3.7,
+                "sg": 3.7
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.99,
+                "sg": 9.99
+            },
+            "humidity": {
+                "noaa": 96.6,
+                "sg": 96.6
+            },
+            "time": "2023-05-04T18:00:00+00:00",
+            "visibility": {
+                "noaa": 14.17,
+                "sg": 14.17
+            },
+            "windDirection": {
+                "noaa": 301.2,
+                "sg": 301.2
+            },
+            "windSpeed": {
+                "noaa": 4.32,
+                "sg": 4.32
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.38,
+                "sg": 9.38
+            },
+            "humidity": {
+                "noaa": 95.67,
+                "sg": 95.67
+            },
+            "time": "2023-05-04T19:00:00+00:00",
+            "visibility": {
+                "noaa": 17.49,
+                "sg": 17.49
+            },
+            "windDirection": {
+                "noaa": 294.09,
+                "sg": 294.09
+            },
+            "windSpeed": {
+                "noaa": 4.34,
+                "sg": 4.34
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.77,
+                "sg": 8.77
+            },
+            "humidity": {
+                "noaa": 94.73,
+                "sg": 94.73
+            },
+            "time": "2023-05-04T20:00:00+00:00",
+            "visibility": {
+                "noaa": 20.81,
+                "sg": 20.81
+            },
+            "windDirection": {
+                "noaa": 286.98,
+                "sg": 286.98
+            },
+            "windSpeed": {
+                "noaa": 4.35,
+                "sg": 4.35
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.15,
+                "sg": 8.15
+            },
+            "humidity": {
+                "noaa": 93.8,
+                "sg": 93.8
+            },
+            "time": "2023-05-04T21:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 279.87,
+                "sg": 279.87
+            },
+            "windSpeed": {
+                "noaa": 4.37,
+                "sg": 4.37
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.12,
+                "sg": 8.12
+            },
+            "humidity": {
+                "noaa": 92.33,
+                "sg": 92.33
+            },
+            "time": "2023-05-04T22:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 281.02,
+                "sg": 281.02
+            },
+            "windSpeed": {
+                "noaa": 3.7,
+                "sg": 3.7
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.09,
+                "sg": 8.09
+            },
+            "humidity": {
+                "noaa": 90.87,
+                "sg": 90.87
+            },
+            "time": "2023-05-04T23:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 282.17,
+                "sg": 282.17
+            },
+            "windSpeed": {
+                "noaa": 3.04,
+                "sg": 3.04
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.06,
+                "sg": 8.06
+            },
+            "humidity": {
+                "noaa": 89.4,
+                "sg": 89.4
+            },
+            "time": "2023-05-05T00:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 283.32,
+                "sg": 283.32
+            },
+            "windSpeed": {
+                "noaa": 2.37,
+                "sg": 2.37
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.31,
+                "sg": 8.31
+            },
+            "humidity": {
+                "noaa": 88.14,
+                "sg": 88.14
+            },
+            "time": "2023-05-05T01:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 290.9,
+                "sg": 290.9
+            },
+            "windSpeed": {
+                "noaa": 2.39,
+                "sg": 2.39
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.56,
+                "sg": 8.56
+            },
+            "humidity": {
+                "noaa": 86.88,
+                "sg": 86.88
+            },
+            "time": "2023-05-05T02:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 298.47,
+                "sg": 298.47
+            },
+            "windSpeed": {
+                "noaa": 2.42,
+                "sg": 2.42
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.81,
+                "sg": 8.81
+            },
+            "humidity": {
+                "noaa": 85.63,
+                "sg": 85.63
+            },
+            "time": "2023-05-05T03:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 306.05,
+                "sg": 306.05
+            },
+            "windSpeed": {
+                "noaa": 2.44,
+                "sg": 2.44
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.06,
+                "sg": 9.06
+            },
+            "humidity": {
+                "noaa": 84.37,
+                "sg": 84.37
+            },
+            "time": "2023-05-05T04:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 313.62,
+                "sg": 313.62
+            },
+            "windSpeed": {
+                "noaa": 2.47,
+                "sg": 2.47
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.3,
+                "sg": 9.3
+            },
+            "humidity": {
+                "noaa": 83.11,
+                "sg": 83.11
+            },
+            "time": "2023-05-05T05:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 321.19,
+                "sg": 321.19
+            },
+            "windSpeed": {
+                "noaa": 2.49,
+                "sg": 2.49
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.55,
+                "sg": 9.55
+            },
+            "humidity": {
+                "noaa": 81.85,
+                "sg": 81.85
+            },
+            "time": "2023-05-05T06:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 328.77,
+                "sg": 328.77
+            },
+            "windSpeed": {
+                "noaa": 2.52,
+                "sg": 2.52
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.8,
+                "sg": 9.8
+            },
+            "humidity": {
+                "noaa": 80.59,
+                "sg": 80.59
+            },
+            "time": "2023-05-05T07:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 336.35,
+                "sg": 336.35
+            },
+            "windSpeed": {
+                "noaa": 2.54,
+                "sg": 2.54
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.05,
+                "sg": 10.05
+            },
+            "humidity": {
+                "noaa": 79.33,
+                "sg": 79.33
+            },
+            "time": "2023-05-05T08:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 343.92,
+                "sg": 343.92
+            },
+            "windSpeed": {
+                "noaa": 2.56,
+                "sg": 2.56
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.3,
+                "sg": 10.3
+            },
+            "humidity": {
+                "noaa": 78.08,
+                "sg": 78.08
+            },
+            "time": "2023-05-05T09:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 351.5,
+                "sg": 351.5
+            },
+            "windSpeed": {
+                "noaa": 2.59,
+                "sg": 2.59
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.55,
+                "sg": 10.55
+            },
+            "humidity": {
+                "noaa": 76.82,
+                "sg": 76.82
+            },
+            "time": "2023-05-05T10:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 359.07,
+                "sg": 359.07
+            },
+            "windSpeed": {
+                "noaa": 2.61,
+                "sg": 2.61
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.79,
+                "sg": 10.79
+            },
+            "humidity": {
+                "noaa": 75.56,
+                "sg": 75.56
+            },
+            "time": "2023-05-05T11:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 6.64,
+                "sg": 6.64
+            },
+            "windSpeed": {
+                "noaa": 2.64,
+                "sg": 2.64
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 11.04,
+                "sg": 11.04
+            },
+            "humidity": {
+                "noaa": 74.3,
+                "sg": 74.3
+            },
+            "time": "2023-05-05T12:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 14.22,
+                "sg": 14.22
+            },
+            "windSpeed": {
+                "noaa": 2.66,
+                "sg": 2.66
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.76,
+                "sg": 10.76
+            },
+            "humidity": {
+                "noaa": 76.15,
+                "sg": 76.15
+            },
+            "time": "2023-05-05T13:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 15.57,
+                "sg": 15.57
+            },
+            "windSpeed": {
+                "noaa": 2.49,
+                "sg": 2.49
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.48,
+                "sg": 10.48
+            },
+            "humidity": {
+                "noaa": 78.0,
+                "sg": 78.0
+            },
+            "time": "2023-05-05T14:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 16.92,
+                "sg": 16.92
+            },
+            "windSpeed": {
+                "noaa": 2.33,
+                "sg": 2.33
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 10.2,
+                "sg": 10.2
+            },
+            "humidity": {
+                "noaa": 79.85,
+                "sg": 79.85
+            },
+            "time": "2023-05-05T15:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 18.27,
+                "sg": 18.27
+            },
+            "windSpeed": {
+                "noaa": 2.16,
+                "sg": 2.16
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.93,
+                "sg": 9.93
+            },
+            "humidity": {
+                "noaa": 81.7,
+                "sg": 81.7
+            },
+            "time": "2023-05-05T16:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 19.62,
+                "sg": 19.62
+            },
+            "windSpeed": {
+                "noaa": 2.0,
+                "sg": 2.0
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.65,
+                "sg": 9.65
+            },
+            "humidity": {
+                "noaa": 83.55,
+                "sg": 83.55
+            },
+            "time": "2023-05-05T17:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 20.97,
+                "sg": 20.97
+            },
+            "windSpeed": {
+                "noaa": 1.83,
+                "sg": 1.83
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.37,
+                "sg": 9.37
+            },
+            "humidity": {
+                "noaa": 85.4,
+                "sg": 85.4
+            },
+            "time": "2023-05-05T18:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 22.32,
+                "sg": 22.32
+            },
+            "windSpeed": {
+                "noaa": 1.67,
+                "sg": 1.67
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 9.09,
+                "sg": 9.09
+            },
+            "humidity": {
+                "noaa": 87.25,
+                "sg": 87.25
+            },
+            "time": "2023-05-05T19:00:00+00:00",
+            "visibility": {
+                "noaa": 24.13,
+                "sg": 24.13
+            },
+            "windDirection": {
+                "noaa": 23.67,
+                "sg": 23.67
+            },
+            "windSpeed": {
+                "noaa": 1.5,
+                "sg": 1.5
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.81,
+                "sg": 8.81
+            },
+            "humidity": {
+                "noaa": 89.1,
+                "sg": 89.1
+            },
+            "time": "2023-05-05T20:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 25.02,
+                "sg": 25.02
+            },
+            "windSpeed": {
+                "noaa": 1.33,
+                "sg": 1.33
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.53,
+                "sg": 8.53
+            },
+            "humidity": {
+                "noaa": 90.95,
+                "sg": 90.95
+            },
+            "time": "2023-05-05T21:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 26.37,
+                "sg": 26.37
+            },
+            "windSpeed": {
+                "noaa": 1.17,
+                "sg": 1.17
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 8.25,
+                "sg": 8.25
+            },
+            "humidity": {
+                "noaa": 92.8,
+                "sg": 92.8
+            },
+            "time": "2023-05-05T22:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 27.72,
+                "sg": 27.72
+            },
+            "windSpeed": {
+                "noaa": 1.0,
+                "sg": 1.0
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 7.97,
+                "sg": 7.97
+            },
+            "humidity": {
+                "noaa": 94.65,
+                "sg": 94.65
+            },
+            "time": "2023-05-05T23:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 29.07,
+                "sg": 29.07
+            },
+            "windSpeed": {
+                "noaa": 0.84,
+                "sg": 0.84
+            }
+        },
+        {
+            "airTemperature": {
+                "noaa": 7.69,
+                "sg": 7.69
+            },
+            "humidity": {
+                "noaa": 96.5,
+                "sg": 96.5
+            },
+            "time": "2023-05-06T00:00:00+00:00",
+            "visibility": {
+                "noaa": 24.14,
+                "sg": 24.14
+            },
+            "windDirection": {
+                "noaa": 30.42,
+                "sg": 30.42
+            },
+            "windSpeed": {
+                "noaa": 0.67,
+                "sg": 0.67
+            }
+        }
+    ],
+    "meta": {
+        "cost": 1,
+        "dailyQuota": 10,
+        "end": "2023-05-06 00:00",
+        "lat": 42.874221,
+        "lng": 25.318684,
+        "params": [
+            "airTemperature",
+            "windSpeed",
+            "windDirection",
+            "visibility",
+            "humidity"
+        ],
+        "requestCount": 5,
+        "start": "2023-04-26 00:00"
+    }
+}
