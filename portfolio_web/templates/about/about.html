@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>About Me</h1>
+    <h2>{{ about.name }}</h2>
+    <p>{{ about.bio }}</p>
+    <h3>Skills:</h3>
+    <p>{{ about.skills }}</p>
+    <h3>Education:</h3>
+    <p>{{ about.education }}</p>
+    <h3>Projects:</h3>
+    <ul>
+        {% for project in about.projects.all %}
+            <li>{{ project.title }} - {{ project.category }}</li>
+        {% empty %}
+            <li>No projects found.</li>
+        {% endfor %}
+    </ul>
+    <a href="{% url 'edit_about' %}">Edit About Me</a>
+
+{% endblock %}
