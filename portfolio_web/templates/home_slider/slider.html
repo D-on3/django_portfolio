@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block content %}
+
+    <h1>Slider</h1>
+    <div class="slider">
+        {% for image in images %}
+            <div class="slide">
+                <a href="{{ image.app_link }}">
+                    <img src="{{ image.image.url }}" alt="{{ image.caption }}">
+                    <div class="caption">{{ image.caption }}</div>
+                </a>
+            </div>
+        {% endfor %}
+    </div>
+{% endblock %}
