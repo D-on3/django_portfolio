@@ -1,0 +1,17 @@
+<!-- login.html -->
+
+<form method="post">
+    {% csrf_token %}
+    {{ form.username.label_tag }}
+    {{ form.username }}
+    {{ form.password.label_tag }}
+    {{ form.password }}
+    
+    <!-- Add the following line for the reCAPTCHA widget -->
+    {% if form.errors %}
+        <div class="recaptcha-errors">{{ form.errors.recaptcha }}</div>
+    {% endif %}
+    <div class="g-recaptcha" data-sitekey="{{ recaptcha_site_key }}"></div>
+    
+    <button type="submit">Login</button>
+</form>
