@@ -1,0 +1,36 @@
+version: 2.1
+jobs:
+  build:
+    docker:
+      - image: circleci/python:3.9
+
+    steps:
+      - checkout
+
+      - run:
+          name: Install dependencies
+          command: |
+            python3 -m venv venv
+            source venv/bin/activate
+            pip install -r requirements.txt
+
+      - run:
+          name: Run tests
+          command: |
+            source venv/bin/activate
+            python manage.py test
+
+  deploy:
+    docker:
+      - image: circleci/python:3.9
+
+    steps:
+      - checkout
+
+      - run:
+          name: Deploy to Heroku
+          command: |
+            curl https://cli-assets.heroku.com/install.sh | sh
+            heroku login -i
+            heroku git:remote -a altered_order
+            git push heroku main
