@@ -1,0 +1,6 @@
+<h1>Create New TODO</h1>
+<form method="POST">
+  {% csrf_token %}
+  {{ form.as_p }}
+  <button type="submit">Create</button>
+</form>

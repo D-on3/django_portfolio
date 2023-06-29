@@ -1,0 +1,16 @@
+
+{% extends "base.html" %}
+
+<h1>TODO List</h1>
+<ul>
+  {% for todo in todos %}
+    <li>
+      {{ todo.title }}
+      <a href="{% url 'todo:update' pk=todo.pk %}">Edit</a>
+      <a href="{% url 'todo:delete' pk=todo.pk %}">Delete</a>
+    </li>
+  {% empty %}
+    <li>No todos found.</li>
+  {% endfor %}
+</ul>
+<a href="{% url 'todo:create' %}">Create New TODO</a>

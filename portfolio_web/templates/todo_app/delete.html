@@ -1,0 +1,6 @@
+<h1>Delete TODO</h1>
+<p>Are you sure you want to delete "{{ todo.title }}"?</p>
+<form method="POST">
+  {% csrf_token %}
+  <button type="submit">Delete</button>
+</form>
