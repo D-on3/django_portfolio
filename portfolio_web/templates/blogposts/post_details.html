@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <h1>{{ post.title }}</h1>
+  <p>{{ post.content }}</p>
+  <p>Author: {{ post.author }}</p>
+  <p>Published Date: {{ post.pub_date }}</p>
+  <hr>
+  <h2>Comments</h2>
+  {% for comment in post.comments.all %}
+    <div>
+      <h3>{{ comment.name }}</h3>
+      <p>{{ comment.content }}</p>
+      <p>Email: {{ comment.email }}</p>
+      <p>Published Date: {{ comment.pub_date }}</p>
+    </div>
+    <hr>
+  {% empty %}
+    <p>No comments available.</p>
+  {% endfor %}
+  <h2>Add Comment</h2>
+  <form method="POST" action="{% url 'create_comment' post_id=post.id %}">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Add Comment</button>
+  </form>
+{% endblock %}
